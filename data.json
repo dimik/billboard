@@ -1,0 +1,3428 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "bbox":[[37.654592, 55.676179 ], [37.671049, 55.685477]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.662821, 55.680828]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Москва на просп Андропова, д 26 сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Москва на просп Андропова, д 26",
+            "cost":"Стоимость аренды в месяц: 255 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/reklamny-shchit-v-g-moskva-na-prospekte-andropova-d-26-storona"
+         }
+      },
+
+        {
+         "type":"Feature",
+         "bbox":[[37.654592, 55.676179 ], [37.671049, 55.685477]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.662821, 55.680828]
+         },
+         "properties":{
+            "text":"Рекламный щит в Москве просп. Андропова дом 26 сторона Б",
+            "name":"Рекламный щит",
+            "address":"Москва просп. Андропова дом 26",
+            "cost":"Стоимость аренды в месяц: 195 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/reklamny-shchit-v-moskve-prospekt-andropova-dom-26-storona-b"
+         }
+      },
+       {
+         "type":"Feature",
+         "bbox":[[37.654394, 55.675326 ], [37.670851, 55.684625]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.662623, 55.679976]
+         },
+         "properties":{
+            "text":"Рекламный биллборд в городе Москва Андропова просп. 28 сторона А1",
+            "name":"Рекламный биллборд",
+            "address":"Москва Андропова просп. 28",
+            "cost":"Стоимость аренды в месяц: 255 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/reklamny-billbord-v-gorode-moskva-andropova-prosp-28-storona-a1"
+         }
+      },
+           {
+         "type":"Feature",
+         "bbox":[[37.654394, 55.675326 ], [37.670851, 55.684625]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.662623, 55.679976]
+         },
+         "properties":{
+            "text":"Рекламный щит в городе Москва Андропова просп. 28 сторона А2",
+            "name":"Рекламный щит",
+            "address":"Москва Андропова просп. 28",
+            "cost":"Стоимость аренды в месяц: 255 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/reklamny-shchit-v-gorode-moskva-andropova-prospekt-28-storona-2"
+         }
+      },
+
+        {
+         "type":"Feature",
+         "bbox":[[37.65867, 55.684508 ], [37.675127, 55.693805]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.666899, 55.689157]
+         },
+         "properties":{
+            "text":"Суперсайт в Москве Андропова просп. в.9 сторона Б",
+            "name":"Суперсайт",
+            "address":"Москве Андропова просп. в.9",
+            "cost":"Стоимость аренды в месяц: 650 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/supersait-v-moskve-andropova-prospekt-v-9-storona-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.657287, 55.689588], [37.673744, 55.698883]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.665515, 55.694236]
+         },
+         "properties":{
+            "text":"Рекламный щит 6х3 в г.Москва на пр-т Андропова напротив д.10 сторона Б",
+            "name":"Рекламный щит",
+            "address":"г.Москва на пр-т Андропова д.10 ",
+            "cost":"Стоимость аренды в месяц: 195 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/reklamny-shchit-6x3-v-g-moskva-na-pr-t-andropova-naprotiv-d-10-storona-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.616953, 55.668269], [37.63341, 55.67757]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.625181, 55.67292]
+         },
+         "properties":{
+            "text":"Призмаборд в Москве на Варшавском шоссе д.46 после разворота сторона А",
+            "name":"Призмаборд",
+            "address":"г.Москва Варшавском шоссе д.46",
+            "cost":"Стоимость аренды в месяц: 240 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/prizmabord-v-moskve-na-varshavskom-shosse-d46-posle-razvorota-storona-prizmabord-v-moskve-na-varshavskom-shosse-d-46-posle-razvorota-storona"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.616953, 55.668269], [37.63341, 55.67757]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.625181, 55.67292]
+         },
+         "properties":{
+            "text":"Тривижен в городе Москва Варшавское шоссе д.46 после разворота сторона Б",
+            "name":"Тривижен",
+            "address":"г. Москва Варшавское шоссе д.46",
+            "cost":"Стоимость аренды в месяц: 230 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/trivizion-v-gorode-moscov-varshavskoe-shosse-d-46-posle-razvorota-storona-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.585458, 55.572726], [37.601915, 55.58205]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.593686, 55.577388]
+         },
+         "properties":{
+            "text":"Рекламный щит в Москве Варшавское шоссе 100м до выезда на МКАД сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Москва Варшавское шоссе/МКАД",
+            "cost":"Стоимость аренды в месяц: 240 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/reklamny-shchit-v-moskve-varshavskoe-shosse-100m-do-viezda-na-mkad-storona"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.585458, 55.572726], [37.601915, 55.58205]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.593686, 55.577388]
+         },
+         "properties":{
+            "text":"Биллборд 3х6 в Москве Варшавское шоссе 100м до выезда на МКАД сторона Б",
+            "name":"Биллборд",
+            "address":"г. Москва Варшавское шоссе/МКАД",
+            "cost":"Стоимость аренды в месяц: 230 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/billbord-3x6-v-moskve-varshavskoe-shosse-100m-do-viezda-na-mkad-storona-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.597136, 55.563488], [37.603783, 55.57376]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.598142, 55.57122]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 в Москве Варшавское шоссе чет.ст 550м п.п с МКАД сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Москва Варшавское шоссе/МКАД",
+            "cost":"Стоимость аренды в месяц: 240 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/reklamny-shchit-3x6-v-moskve-varshavskoe-shosse-chet-550m-pp-s-mkad-storona"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.597136, 55.563488], [37.603783, 55.57376]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.598142, 55.57122]
+         },
+         "properties":{
+            "text":"Рекламный щит в Москве на Варшавском ш. чет.ст. 550м МКАД сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Москва Варшавское шоссе/МКАД",
+            "cost":"Стоимость аренды в месяц: 230 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/billbord-3x6-v-moskve-varshavskoe-shosse-100m-do-viezda-na-mkad-storona-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.609964, 55.638099], [37.626421, 55.647407]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.618192, 55.642753]
+         },
+         "properties":{
+            "text":"Рекламный щит 6х3 г.Москва Варшавское шоссе 108 к.1 сторона Б",
+            "name":"Рекламный щит",
+            "address":"г.Москва Варшавское шоссе 108 к.1",
+            "cost":"Стоимость аренды в месяц: 230 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/reklamny-shchit-6x3-g-moskva-varshavskoe-shosse-108k-1-storona"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.607466, 55.631203], [37.623923, 55.640513]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.615695, 55.635858]
+         },
+         "properties":{
+            "text":"Рекламная конструкция г.Москва Варшавское шоссе 114А позиция 2 сторона Б",
+            "name":"Рекламная конструкция",
+            "address":"г.Москва Варшавское шоссе 114А",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/reklamnaja-konstrukcija-g-moskva-varshavskoe-shosse-114-pozicia-2-storona-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.607709, 55.623798], [37.624166, 55.633109]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.615937, 55.628454]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 в г.Москва Варшавское шоссе 122 сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Москва Варшавское шоссе 122",
+            "cost":"Стоимость аренды в месяц: 240 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/reklamny-shchit-3x6-v-g-moskva-varshavskoe-shosse-122-storona"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.607709, 55.623798], [37.624166, 55.633109]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.615937, 55.628454]
+         },
+         "properties":{
+            "text":"Рекламная конструкция в г.Москва на Варшавское шоссе 122 сторона Б",
+            "name":"Рекламная конструкция",
+            "address":"г.Москва на Варшавское шоссе 122 ",
+            "cost":"Стоимость аренды в месяц: 230 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/reklamnaja-konstrukcia-v-g-moscow-na-varshavskom-sh-122-storona-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.612272, 55.623], [37.628729, 55.632311]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.620501, 55.627656]
+         },
+         "properties":{
+            "text":"Рекламный щит 6х3 в Москве на Варшавском ш. д. 125 с.1 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Москва Варшавское ш. д. 125 с.1",
+            "cost":"Стоимость аренды в месяц: 240 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/reklamny-shchit-6x3-v-moskve-na-varshavskom-sh-d-125-s-1-storona"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.612272, 55.623], [37.628729, 55.632311]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.620501, 55.627656]
+         },
+         "properties":{
+            "text":"Рекламный щит г.Москва Варшавское шоссе 125 с.1 сторона Б",
+            "name":"Рекламный щит",
+            "address":"г.Москва Варшавское шоссе 125 с.1",
+            "cost":"Стоимость аренды в месяц: 230 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/reklamny-shchit-g-moskva-varshavskoe-shosse-125-c-1"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.608167, 55.616549], [37.624624, 55.625862]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.616396, 55.621206]
+         },
+         "properties":{
+            "text":"Рекламная конструкция в городе Москва Варшавское шоссе 127 (250 м до пересечения с Днепропетровским проездом) сторона Б",
+            "name":"Рекламная конструкция",
+            "address":"г. Москва Варшавское шоссе 127",
+            "cost":"Стоимость аренды в месяц: 230 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/reklamnaja-konstrukcia-v-gorode-moscwa-varshuavskoe-shosse-127-250m-do-peresechenia-s-dnepropetrovskim-proezdom-storona-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.604969, 55.61871], [37.62142, 55.628022]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.613198, 55.623366]
+         },
+         "properties":{
+            "text":"Билборд в Москве Варшавское шоссе напротив дома 128 к.1 с.4 сторона А",
+            "name":"Билборд",
+            "address":"Москва Варшавское шоссе дом 128 к.1 с.4",
+            "cost":"Стоимость аренды в месяц: 240 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gmoskva/bilbord-v-moskve-varshavskoe-shosse-naprotiv-doma-128-k-1-c-4-storona"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.84225, 55.769823], [37.843418, 55.780294]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.842699, 55.775044]
+         },
+         "properties":{
+            "text":"Суперсайт 5х15 на МКАДе 1км+305м внешняя сторона А",
+            "name":"Суперсайт",
+            "address":"МКАД 1км",
+            "cost":"Стоимость аренды в месяц: 170 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/supersait-5x15-na-mkade-1km-305m-vneshnjj-storona"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.84225, 55.769823], [37.843418, 55.780294]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.842699, 55.775044]
+         },
+         "properties":{
+            "text":"Суперсайт 5х15 фото на МКАД 1км+305м внешняя сторона Б",
+            "name":"Суперсайт",
+            "address":" МКАД 1км",
+            "cost":"Стоимость аренды в месяц: 130 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/supersait-5x15-foto-na-mkade-1km-305m-vneshnjj-storona-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.842573, 55.761132], [37.843373, 55.769833]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.843301, 55.768188]
+         },
+         "properties":{
+            "text":"Суперборд 5х15 на МКАДе 1км+675м внешняя сторона А",
+            "name":"Суперборд",
+            "address":"МКАД 1км",
+            "cost":"Стоимость аренды в месяц: 170 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/superbord-5x15-na-mkade-1km-675m-vneshnjj-storona"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.842573, 55.761132], [37.843373, 55.769833]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.843301, 55.768188]
+         },
+         "properties":{
+            "text":"Аренда Суперборда на МКАДе 1км+675м внешняя сторона Б",
+            "name":"Аренда Суперборда",
+            "address":"МКАД 1км",
+            "cost":"Стоимость аренды в месяц: 130 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/arenda-superborda-na-mkade-1km-675m-vneshnia-storona-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.899024, 55.820035], [37.953183, 55.826938]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.926054, 55.823044]
+         },
+         "properties":{
+            "text":"Рекламный щит в г. Балашиха Балашихинское шоссе 1км+700м, слева сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Балашиха Балашихинское шоссе 1км+700м Слева сторона А",
+            "cost":"Стоимость аренды в месяц: 27 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/reklamny-shchit-v-g-balashiha-balashihinskoe-shosse-1km-705m-sleva-storona"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.955563, 55.786313], [37.959848, 55.795494]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.957755, 55.790929]
+         },
+         "properties":{
+            "text":"Рекламный щит в г. Балашиха Леоновское шоссе, 800 м после съезда с Горьковского ш Справа сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Балашиха Леоновское шоссе",
+            "cost":"Стоимость аренды в месяц: 25 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/reklamny-shchit-v-g-balashiha-leonovskoe-shosse-800-m-posle-siezda-s-gorkovskogo-shosse-sprava-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.898673, 55.822685], [37.929773, 55.830376]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.919577, 55.826726]
+         },
+         "properties":{
+            "text":"Рекламный биллборд в г. Балашиха м-н.Гагарина, КПП Слева сторона А",
+            "name":"Рекламный биллборд",
+            "address":"г.Балашиха м-н. Гагарина",
+            "cost":"Стоимость аренды в месяц: 30 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/reklamny-bilbord-v-g-balashiha-m-n-gagarina-kpp-sleva-storona"
+         }
+      },
+         {
+         "type":"Feature",
+         "bbox":[[37.964915, 55.794796], [37.981372, 55.804066]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.973144, 55.799431]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 в г.Балашиха проспект Ленина, напротив д. 40 Справа сторона Б",
+            "name":"Рекламный щит",
+            "address":"г.Балашиха проспект Ленина, д. 40",
+            "cost":"Стоимость аренды в месяц: 23 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/reklamny-shchit-3x6-g-balashiha-prospekt-lenina-naprotiv-d-40-sprava-storona-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.948916, 55.823484], [37.965373, 55.832748]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.957145, 55.828116]
+         },
+         "properties":{
+            "text":"Рекламный биллборд г. Балашиха ул. Звездная, д.12, справа А",
+            "name":"Рекламный биллборд",
+            "address":"г. Балашиха ул. Звездная, д.12",
+            "cost":"Стоимость аренды в месяц: 30 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/cena-reclamnogo-billborda-g-balashiha-ul-zvezdnay-d-12-sprava"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.948916, 55.823484], [37.965373, 55.832748]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.957145, 55.828116]
+         },
+         "properties":{
+            "text":"Рекламный биллборд г. Балашиха ул. Звездная, д.12, справа Б",
+            "name":"Рекламный биллборд",
+            "address":"г. Балашиха ул. Звездная, д.12",
+            "cost":"Стоимость аренды в месяц: 25 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/shchit-3x6-v-g-balashiha-ul-zvezdnay-d-12-sprava-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.961654, 55.819368], [37.978111, 55.828632]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.969883, 55.824]
+         },
+         "properties":{
+            "text":"Биллборд в г. Балашиха ул. Свердлова, д.23 Слева А",
+            "name":"Биллборд",
+            "address":"г. Балашиха ул. Свердлова, д.23",
+            "cost":"Стоимость аренды в месяц: 30 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/bilbord-v-g-balashiha-ul-sverdlova-d-23-sleva"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.961654, 55.819368], [37.978111, 55.828632]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.969883, 55.824]
+         },
+         "properties":{
+            "text":"Биллборд в г. Балашиха ул. Свердлова, д.23 Слева Б",
+            "name":"Биллборд",
+            "address":"г. Балашиха ул. Свердлова, д.23",
+            "cost":"Стоимость аренды в месяц: 29 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/reklamny-shchit-3x6-v-g-balashiha-ul-sverdlova-d-23-sleva-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.976997, 55.803752], [37.984902, 55.804541]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.984339, 55.80453]
+         },
+         "properties":{
+            "text":"Рекламная конструкция в г. Балашиха, проспект Ленина, пересечение с ул. Чехова сторона А",
+            "name":"Рекламная конструкция",
+            "address":"г. Балашиха, проспект Ленина/ул. Чехова",
+            "cost":"Стоимость аренды в месяц: 40 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/reklamnay-konstrukcij-g-balashiha-prospekt-lenina-peresechenie-s-ul-chehova-storona"
+         }
+      },
+            {
+        "type":"Feature",
+         "bbox":[[37.976997, 55.803752], [37.984902, 55.804541]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.984339, 55.80453]
+         },
+         "properties":{
+            "text":"Рекламная конструкция в г. Балашиха, проспект Ленина, пересечение с ул. Чехова сторона Б",
+            "name":"Рекламная конструкция",
+            "address":"г. Балашиха, проспект Ленина/ул. Чехова",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/reklamny-shchit-v-g-balashiha-prospekt-lenina-peresechenie-s-ul-chehova-storona-b"
+
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.946526, 55.81783], [37.962984, 55.827095]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.954755, 55.822463]
+         },
+         "properties":{
+            "text":"Рекламный щит в г. Балашиха, ул. Звёздная, д.4, слева А",
+            "name":"Рекламный щит",
+            "address":"г. Балашиха, ул. Звёздная, д.4",
+            "cost":"Стоимость аренды в месяц: 45 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/reklamny-shchit-v-g-balashiha-ul-zvezdnaj-d-4-sleva"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.946526, 55.81783], [37.962984, 55.827095]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.954755, 55.822463]
+         },
+         "properties":{
+            "text":"Рекламный щит в г. Балашиха, ул. Звёздная, д.4, слева Б",
+            "name":"Рекламный щит",
+            "address":"г. Балашиха, ул. Звёздная, д.4",
+            "cost":"Стоимость аренды в месяц: 42 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/reklamny-shchit-v-g-balashiha-ul-zvezdnaj-d-4-sleva-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.962858, 55.827995], [37.979315, 55.837257]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.971086, 55.832626]
+         },
+         "properties":{
+            "text":"Рекламный щит 6х3 в г. Балашиха, ул.Свердлова, 40м от угла д.53, слева А",
+            "name":"Рекламный щит",
+            "address":"г. Балашиха, ул.Свердлова, д.53",
+            "cost":"Стоимость аренды в месяц: 48 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/reklamny-shchit-6h3-v-gorode-balashiha-ul-sverdlova-40m-ot-ygla-d-53-sleva"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.963334, 55.819879], [37.979791, 55.829143]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.971562, 55.824511]
+         },
+         "properties":{
+            "text":"Биллборд 6х3 в г. Балашиха, ул. Свердлова д. 28, справа А",
+            "name":"Биллборд",
+            "address":"г. Балашиха, ул. Свердлова д. 28",
+            "cost":"Стоимость аренды в месяц: 48 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/billbord-6x3-v-balashihe-ul-sverdlova-d-28-sprava"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.963334, 55.819879], [37.979791, 55.829143]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.971562, 55.824511]
+         },
+         "properties":{
+            "text":"Биллборд 6х3 в г. Балашиха, ул. Свердлова д. 28, справа Б",
+            "name":"Биллборд",
+            "address":"г. Балашиха, ул. Свердлова д. 28",
+            "cost":"Стоимость аренды в месяц: 45 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/kypit-reklamny-shchit-v-g-balashiha-ul-sverdlova-d-28-sprava-b"
+
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.955563, 55.786313], [37.959848, 55.795494]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.957755, 55.790929]
+         },
+         "properties":{
+            "text":"Биллборд в г. Балашиха, Леоновское шоссе, 200 м. от АЗС сторона А ",
+            "name":"Биллборд",
+            "address":"г. Балашиха, Леоновское шоссе, 200 м. от АЗС сторона А ",
+            "cost":"Стоимость аренды в месяц: 45 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/stoimost-arendy-bilborda-v-g-balashiha-leonovskoe-shosse-200m-ot-azs-storona"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.959354, 55.78483], [37.975812, 55.794102]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.967583, 55.789466]
+         },
+         "properties":{
+            "text":"Аренда рекламного места в г. Балашиха, ул. Карбышева, д. 19, справа А",
+            "name":"Рекламный щит",
+            "address":"г. Балашиха, ул. Карбышева, д. 19",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-balashihe/arenda-reklamnogo-mesta-v-g-balashiha-ul-karbisheva-d-19-sprava"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[37.830698, 54.784702], [39.358229, 55.687106]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.591679, 55.226421]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Бронницы Новорязанское шоссе, 54км+160м справа Б",
+            "name":"Рекламный щит",
+            "address":"г.Бронницы Новорязанское шоссе, 54км",
+            "cost":"Стоимость аренды в месяц: 30 800 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/reklamny-shchit-v-g-bronnici-novoriazanskoe-shosse-54km-160m-sprava-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[38.30508, 55.391161], [38.329056, 55.402393]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.317333, 55.397685]
+         },
+         "properties":{
+            "text":"Биллборд в г.Бронницы ул. Рязанское шоссе, (Старорязанское шоссе),д.2, 55км+800м сторона А",
+            "name":"Биллборд",
+            "address":"г.Бронницы ул. Рязанское шоссе, д.2",
+            "cost":"Стоимость аренды в месяц: 26 800 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/bilbord-v-g-bronnici-yl-rjazanskoe-shosse-d-2-55km-800m-storona"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[38.30508, 55.391161], [38.329056, 55.402393]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.317333, 55.397685]
+         },
+         "properties":{
+            "text":"Рекламная конструкция 3х6 в г.Бронницы ул. Рязанское шоссе, (Старорязанское шоссе),д.5, 55км+900м слева А",
+            "name":"Рекламная конструкция",
+            "address":"г.Бронницы ул. Рязанское шоссе,д.5",
+            "cost":"Стоимость аренды в месяц: 26 800 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/reklamnaj-konstrukcij-3x6-v-g-bronnici-yl-rjzanskoe-shosse-d-5-55km-900m-sleva"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[38.30508, 55.391161], [38.329056, 55.402393]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.317333, 55.397685]
+         },
+         "properties":{
+            "text":"Рекламная конструкция 3х6 в г.Бронницы ул. Рязанское шоссе, (Старорязанское шоссе),д.5, 55км+900м слева А",
+            "name":"Рекламная конструкция",
+            "address":"г.Бронницы ул. Рязанское шоссе,д.5",
+            "cost":"Стоимость аренды в месяц: 24 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/bilbord-3x6-v-g-bronnici-yl-rjzanskoe-shosse-d-5-55km-900m-sleva-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[38.239198, 55.426309], [38.243815, 55.431315]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.243815, 55.431315]
+         },
+         "properties":{
+            "text":"Рекламный биллборд в г.Бронницы ул. Рязанское шоссе, (Старорязанское шоссе), 56км+470м, ул. Советская, напротив поворота на ул. Центральная слева А",
+            "name":"Рекламный биллборд",
+            "address":"г.Бронницы ул. Рязанское шоссе/ул. Советская",
+            "cost":"Стоимость аренды в месяц: 26 800 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/reklamny-billbord-v-g-bronnici-yl-rjzanskoe-shosse-56km-470m-yl-sovetskaj-naprotiv-yl-centralnaj-sleva"
+         }
+      },
+            {
+               "type":"Feature",
+         "bbox":[[38.239198, 55.426309], [38.243815, 55.431315]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.243815, 55.431315]
+         },
+         "properties":{
+            "text":"Рекламный биллборд в г.Бронницы ул. Рязанское шоссе, (Старорязанское шоссе), 56км+470м, ул. Советская, напротив поворота на ул. Центральная слева А",
+            "name":"Рекламный биллборд",
+            "address":"г.Бронницы ул. Рязанское шоссе/ул. Советская",
+            "cost":"Стоимость аренды в месяц: 24 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/reklamny-shchit-v-g-bronnici-yl-rjzanskoe-shosse-56km-470m-yl-sovetskaj-naprotiv-povorota-na-ul-centralnaj-sleva-b"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[38.239198, 55.426309], [38.243815, 55.431315]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.280978, 55.417909]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Бронницы ул. Советская, (Старорязанское шоссе), д. 141, 59км+180м слева А",
+            "name":"Рекламный щит",
+            "address":"г.Бронницы ул. Советская, д. 141",
+            "cost":"Стоимость аренды в месяц: 26 800 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/reklamny-shchit-v-g-bronnici-ul-sovetskaj-d-141-59km-180m-sleva"
+         }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[38.239198, 55.426309], [38.243815, 55.431315]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.280978, 55.417909]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Бронницы ул. Советская, (Старорязанское шоссе), д. 141, 59км+180м слева Б",
+            "name":"Рекламный щит",
+            "address":"г.Бронницы ул. Советская, д. 141",
+            "cost":"Стоимость аренды в месяц: 24 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/reklamny-shchit-6x3-v-g-bronnici-yl-sovetskaj-d-141-59km-180m-sleva-b"
+            }
+      },
+            {
+         "type":"Feature",
+         "bbox":[[36.861595, 55.331182], [38.457192, 56.206161]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.228355, 55.403533]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Бронницы ул. Каширское шоссе, ММК А-107, Рязано-Каширское направление, 03км+985м правая А",
+            "name":"Рекламный щит",
+            "address":"г.Бронницы ул. Каширское шоссе, А-107",
+            "cost":"Стоимость аренды в месяц: 26 800 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/reklamny-shchit-v-g-bronnici-yl-kashirskoe-shosse-mmk-107-rjzano-kashirskoe-napravlenie-03km-985m-sprava"
+         }
+      },
+
+      {
+        "type":"Feature",
+         "bbox":[[36.861595, 55.331182], [38.457192, 56.206161]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.228355, 55.403533]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Бронницы ул. Каширское шоссе, ММК А-107, Рязано-Каширское направление, 03км+985м правая Б",
+            "name":"Рекламный щит",
+            "address":"г.Бронницы ул. Каширское шоссе, А-107",
+            "cost":"Стоимость аренды в месяц: 24 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/reklamny-shchit-v-g-bronnici-yl-kashirskoe-shosse-mmk-107-rjzano-kashirskoe-napravlenie-03km-985m-sprava-b"
+              }
+      },
+      {
+         "type":"Feature",
+         "bbox":[[36.861595, 55.331182], [38.457192, 56.206161]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.228355, 55.403533]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Бронницы ММК А-107, Рязано-Каширское направление, 03км+790м правая А",
+            "name":"Рекламный щит",
+            "address":"г.Бронницы ММК А-107",
+            "cost":"Стоимость аренды в месяц: 26 800 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/reklamny-shchit-v-g-bronnici-mmk-107-rjzano-kashirskoe-napravlenie-03km-790m-pravaj"
+         }
+      },
+   {
+         "type":"Feature",
+         "bbox":[[36.861595, 55.331182], [38.457192, 56.206161]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.228355, 55.403533]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Бронницы ММК А-107, Рязано-Каширское направление, 03км+790м правая Б",
+            "name":"Рекламный щит",
+            "address":"г.Бронницы ММК А-107",
+            "cost":"Стоимость аренды в месяц: 24 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/reklamny-shchit-v-g-bronnici-mmk-107-rjzano-kashirskoe-napravlenie-03km-790m-pravaj-b"
+
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.244983, 55.414327], [38.282739, 55.41586]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.263811, 55.414506]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Бронницы ул. Л.Толстого, ММК А-107, Рязано-Каширское направление, 02км+390м слева Б",
+            "name":"Рекламный щит",
+            "address":"г.Бронницы ул. Л.Толстого, ММК А-107",
+            "cost":"Стоимость аренды в месяц: 24 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/reklamny-shchit-v-g-bronici-yl-l-tolstogo-mmk-107-rjzano-kashirskoe-napravlenie-02km-390m-sleva-b"
+         }
+      },
+  {
+           "type":"Feature",
+         "bbox":[[38.244983, 55.414327], [38.282739, 55.41586]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.263811, 55.414506]
+                     },
+         "properties":{
+            "text":"Рекламная конструкция в г.Бронницы ул. Л.Толстого, ММК А-107, Рязано-Каширское направление, 01км+655м правая А",
+            "name":"Рекламный щит",
+            "address":"г.Бронницы ул. Л.Толстого, ММК А-107",
+            "cost":"Стоимость аренды в месяц: 26 800 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/reklamnaj-konstrukcij-v-g-bronnici-yl-l-tolstogo-mmk-107-riazano-kashirskoe-napravlenie-01km-655m-pravaj"
+         }
+      },
+  {
+            "type":"Feature",
+         "bbox":[[38.244983, 55.414327], [38.282739, 55.41586]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.263811, 55.414506]
+         },
+         "properties":{
+            "text":"Рекламная поверхность г.Бронницы ул. Л.Толстого, ММК А-107, Рязано-Каширское направление, 01км+655м правая Б",
+            "name":"Рекламный щит",
+            "address":"г.Бронницы ул. Л.Толстого, ММК А-107",
+            "cost":"Стоимость аренды в месяц: 24 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/reklamnaj-konstrukcij-v-g-bronnici-yl-l-tolstogo-mmk-107-riazano-kashirskoe-napravlenie-01km-655m-pravaj-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.30508, 55.391161], [38.329056, 55.402393]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.317333, 55.397685]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 в Бронницах ул. Рязанское шоссе, (Старорязанское шоссе),д.2, 55км+800м справа Б ",
+            "name":"Рекламный щит",
+            "address":"г.Бронницы ул. Рязанское шоссе, д.2",
+            "cost":"Стоимость аренды в месяц: 24 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-bronicah/shchit-3x6-v-bronnicah-yl-rjazanskoe-shosse-d-2-55km-800m-sprava-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.429398, 55.754183], [38.442468, 55.796607]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.433710, 55.774938]
+         },
+         "properties":{
+            "text":"Рекламный щит 6х3 в Электростали на Фрязевском шоссе возле гипермаркет Глобус 12 км 400 м справа А",
+            "name":"Рекламный щит",
+            "address":"г. Электросталь, Фрязевское шоссе, гипермаркет Глобус",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-6x3-na-frjazevskom-shosse-vozle-gipermarketa-globus-12km-400m-sprava"
+         }
+      },
+  {
+        "type":"Feature",
+         "bbox":[[38.429398, 55.754183], [38.442468, 55.796607]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.433710, 55.774938]
+         },
+         "properties":{
+            "text":"Рекламный щит 6х3 в Электростали на Фрязевском шоссе возле гипермаркет Глобус 12 км 400 м справа Б",
+            "name":"Рекламный щит",
+            "address":"г. Электросталь, Фрязевское шоссе, гипермаркет Глобус",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-g-elektrostal-na-friazevskom-shosse-autodoroga-a107-12km-400m-gipermarket-globus-sprava-b"
+         }
+      },
+  {
+          "type":"Feature",
+         "bbox":[[38.429398, 55.754183], [38.442468, 55.796607]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.433710, 55.774938]
+         },
+         "properties":{
+            "text":"Биллборд",
+            "name":"Биллборд в Электростали на Фрязевском шоссе напротив гипермаркет Глобус Автодорога А107 13км 000м слева А",
+            "address":"г. Электросталь, Фрязевское шоссе, гипермаркет Глобус",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/billbord-v-elektrostaly-na-friazevskom-shosse-naprotiv-gipermarketa-globus-autodoroga-a107-13km-000m-sleva"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.425346, 55.793156], [38.441804, 55.802427]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.433710, 55.774938]
+         },
+         "properties":{
+            "text":"Биллборд в г.Электросталь на Автодороге А107 13км 000 м Фрязевское шоссе напротив гипермаркет Глобус слева Б",
+            "name":"Биллборд",
+            "address":"г. Электросталь, Фрязевское шоссе, гипермаркет Глобус",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklama-na-bilborde-v-g-elektrostal-na-autodoroge-a107-13km-000m-friazevskoe-shosse-naprotiv-gipermarket-globus-sleva-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.429398, 55.754183], [38.442468, 55.796607]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.433575, 55.797792]
+         },
+         "properties":{
+            "text":"Рекламный щит в городе Электросталь на ул.Жулябина, 18 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Электросталь ул.Жулябина, 18",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-gorode-elektrostal-na-yl-gyliabina-d-18-storona"
+         }
+      },
+  {
+             "type":"Feature",
+         "bbox":[[38.429398, 55.754183], [38.442468, 55.796607]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.433575, 55.797792]
+         },
+         "properties":{
+            "text":"Рекламный щит в городе Электросталь на ул.Жулябина, 18 сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Электросталь ул.Жулябина, 18",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-elektrostaly-na-ul-guliabino-18-storona-b"         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[36.861595, 55.331182], [38.457192, 56.206161]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.429406, 55.796611]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Электросталь на пересечении Ногинского ш. и ул. Жулябина слева А",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь Ногинское ш./ул. Жулябина",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-g-elektrostal-na-peresecheney-noginskogo-shosse-and-ul-guliabino-sleva"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[36.861595, 55.331182], [38.457192, 56.206161]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.429406, 55.796611]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Электросталь на пересечении Ногинского ш. и ул. Жулябина, Автодорога А 107 7 км 030 м слева Б",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь Ногинское ш./ул. Жулябина",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-g-elektrostal-na-peresechenee-noginskogo-sh-i-yl-guliabino-avtodoroga-107-7km-030m-sleva-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.422014, 55.79599], [38.438471, 55.80526]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.430242, 55.800625]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Электростали Ногинское шоссе д.12. слева А",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь Ногинское шоссе д.12",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-g-elektrostaly-noginskoe-shosse-d-12-sleva"
+         }
+      },
+  {
+        "type":"Feature",
+         "bbox":[[38.422014, 55.79599], [38.438471, 55.80526]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.430242, 55.800625]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Электростали Ногинское шоссе д.12. слева Б",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь Ногинское шоссе д.12",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-g-elektrosteel-noginskoe-shosse-d-12-sleva-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.417648, 55.805558], [38.434105, 55.814826]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.425876, 55.810192]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Электросталь на Ногинском шоссе д.15 слева сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь Ногинское шоссе д.1",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-g-elektrostaly-na-noginskom-shosse-d-15-sleva-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.417648, 55.805558], [38.434105, 55.814826]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.425876, 55.810192]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Электросталь на Ногинском шоссе д.15 слева сторона Б",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь Ногинское шоссе д.1",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-g-elektrostaly-noginskoe-shosse-d-15-sleva-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.432623, 55.790853], [38.438579, 55.804658]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.435593, 55.79751]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 в г.Электросталь пересечение ул.Жулябина и ул. Пушкина сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь ул.Жулябина/ул. Пушкина",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-3x6-v-g-elektrostal-peresechenie-yl-guliabina-and-yl-pushkina-storona"
+         }
+      },
+  {
+          "type":"Feature",
+         "bbox":[[38.432623, 55.790853], [38.438579, 55.804658]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.435593, 55.79751]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 в г.Электросталь пересечение ул.Жулябина и ул. Пушкина сторона Б",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь ул.Жулябина/ул. Пушкина",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+             "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/bilbord-v-g-elektrostal-peresechenie-yl-gyliabina-yl-pushkina-storona-b"
+         }
+      },
+        {
+         "type":"Feature",
+         "bbox":[[38.423981, 55.769023], [38.440438, 55.778299]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.43221, 55.773662]
+         },
+         "properties":{
+            "text":"Щит 3х6 в г.Электросталь, ул.Западная, д.2в (Автодорога А 107) справа А",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь, ул.Западная, д.2в",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/shchit-3x6-v-g-elektrostal-yl-zapadnaja-d-2-b-autodoroga-107-sprava"
+         }
+      },
+   {
+        "type":"Feature",
+         "bbox":[[38.423981, 55.769023], [38.440438, 55.778299]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.43221, 55.773662]
+         },
+         "properties":{
+            "text":"Щит 3х6 в г.Электросталь, ул.Западная, д.2в (Автодорога А 107) справа Б",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь, ул.Западная, д.2в",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-g-elektrosteel-na-friazevskom-shosse-e-yl-zapadnay-d-2b-sprava-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.232901083007704,55.73309596687337],[38.6709809169921,55.84239401450123]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.428938375488194,55.799195228909916]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Электросталь Автодорога А 107 10 км 140 м слева А",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь Автодорога А107",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-g-elektrostal-autodoroga-107-10km-140m-sleva"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.76632, 55.857639], [38.80705, 55.901354]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.780621, 55.877935]
+         },
+         "properties":{
+            "text":"Рекланый щит в Электрогорске на Фрязевском шоссе рядом с ул.Победы д.1 корп.2 слева сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Электрогорск ул.Победы д.1 корп.2 ",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-elektrogorske-na-friazevskom-shosse-rjadom-s-yl-pobedy-d-1-korp-2-sleva-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.426811, 55.772102], [38.443268, 55.781377]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.435039, 55.77674]
+         },
+         "properties":{
+            "text":"Рекламный щит на улице в г.Электросталь на ул.Тевосяна., дом 10 сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь ул.Тевосяна, дом 10",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-na-ylice-v-g-elektrostal-na-yl-tevosiana-dom-10-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.426811, 55.772102], [38.443268, 55.781377]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.435039, 55.77674]
+         },
+         "properties":{
+            "text":"Рекламный щит на улице в г.Электросталь на ул.Тевосяна., дом 10 сторона Б",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь ул.Тевосяна, дом 10",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-g-elektrostal-yl-tevosjana-dom-10-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.467675, 55.798196], [38.484132, 55.807466]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.475904, 55.802831]
+         },
+         "properties":{
+            "text":"Рекламный щит в городе Электросталь по ул.Комсомольская, д.4 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Электросталь ул.Комсомольская, д.4",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-gorode-elektrostal-po-ul-komsomolskaja-d-4-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.467675, 55.798196], [38.484132, 55.807466]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.475904, 55.802831]
+         },
+         "properties":{
+            "text":"Рекламный щит в городе Электросталь по ул.Комсомольская, д.4 сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Электросталь ул.Комсомольская, д.4",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-g-elektrostal-na-komsomolskay-yl-d-4-storona-b"
+         }
+      },
+    {
+         "type":"Feature",
+         "bbox":[[38.439576, 55.764718], [38.456033, 55.773996]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.447804, 55.769357]
+         },
+         "properties":{
+            "text":"Рекламный щит в гор.Электросталь на ул.Мира, д.30 напротив рынка Южный сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь ул.Мира, д.30",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-gor-elektrostal-na-yl-mira-d-30-naprotiv-rinka-ugny-storona"
+         }
+      },
+
+  {
+      "type":"Feature",
+         "bbox":[[38.439576, 55.764718], [38.456033, 55.773996]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.447804, 55.769357]
+         },
+         "properties":{
+            "text":"Рекламный щит в гор.Электросталь на ул.Мира, д.30 напротив рынка Южный сторона Б",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь ул.Мира, д.30",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-g-elektrosteel-ul-mira-d-30-naprotiv-renka-ugny-storona-b"
+         }
+      },
+  {
+        "type":"Feature",
+         "bbox":[[38.459599, 55.802963], [38.476056, 55.812231]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.467828, 55.807597]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 на ул.Юбилейная, д. 3 в городе Электросталь, сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Электросталь ул.Юбилейная, д. 3 ",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-3x6-na-yl-ubileinaja-d-3-v-gorode-elektrostal"
+                     }
+      },
+
+       {
+         "type":"Feature",
+         "bbox":[[38.459599, 55.802963], [38.476056, 55.812231]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.467828, 55.807597]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 на ул.Юбилейная, д. 3 в городе Электросталь, сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Электросталь ул.Юбилейная, д. 3 ",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/kypit-shchit-3x6-v-elektrostaly-ubileinaja-yl-d-3-storona-b"
+         }
+      },
+
+      {
+         "type":"Feature",
+         "bbox":[[38.439684, 55.763012], [38.456141, 55.772289]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.447912, 55.767651]
+         },
+         "properties":{
+            "text":"Биллборд в аренду в г.Электросталь ул.Мира, д.34 сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь ул.Мира, д.34",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/bilboard-v-arendy-v-g-elektrostal-yl-mira-d-34-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.439576, 55.764718], [38.456033, 55.773996]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.447804, 55.769357]
+         },
+         "properties":{
+            "text":"Рекламный щит в гор.Электросталь на ул.Мира, д.30 напротив рынка Южный сторона Б",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь ул.Мира, д.30",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklamny-shchit-v-g-elektrosteel-ul-mira-d-30-naprotiv-renka-ugny-storona-b"
+         }
+      },
+
+        {
+         "type":"Feature",
+         "bbox":[[38.46463, 55.795418], [38.481087, 55.804688]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.472858, 55.800053]
+         },
+         "properties":{
+            "text":"Реклама на баннере в г.Электросталь на ул.Восточная, дом 4 сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Электросталь ул.Восточная, дом 4",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/reklama-na-banere-v-g-elektrostal-na-ul-vostochnaja-dom-4-storona"
+         }
+      },
+   {
+         "type":"Feature",
+         "bbox":[[37.793409, 55.910372], [37.809866, 55.919614]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.801637, 55.914993]
+         },
+         "properties":{
+            "text":"Аренда рекламного щита в г.Королев на ул.Корсакова. д.8 сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Королев на ул.Корсакова. д.8",
+            "cost":"Стоимость аренды в месяц: 33 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/arenda-reklamnogo-shchita-v-g-korolev-na-yl-korsakova-d8-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.817385, 55.912521], [37.833842, 55.921763]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.825613, 55.917142]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Королев на Октябрьском бульваре, д. 6. после пересечения с ул. Циолковского сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Королев Октябрьский бульвар, д. 6",
+            "cost":"Стоимость аренды в месяц: 33 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklamny-shchit-v-g-korolev-na-oktiabrskom-bulvare-d-6-posle-peresechenia-s-ul-ciolkovskogo-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.842888, 55.90201], [37.859345, 55.911255]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.851116, 55.906633]
+         },
+         "properties":{
+            "text":"Рекламный билборд в г. Королев, ул.Орджоникидзе, вл. 5Б после въезда в гаражи сторона А",
+            "name":"Рекламный билборд",
+            "address":"г. Королев, ул.Орджоникидзе, вл. 5Б",
+            "cost":"Стоимость аренды в месяц: 30 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklamny-bilbord-v-g-korolev-ul-ordgonikidze-vl-5b-posle-vezda-v-garagy-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.791747, 55.910094], [37.808204, 55.919337]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.799975, 55.914716]
+         },
+         "properties":{
+            "text":"Рекламный щит в Королеве на ул.Пионерская, вл.13 (30 м. после остановки) сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Королев на ул.Пионерская, вл.13",
+            "cost":"Стоимость аренды в месяц: 43 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklamny-schit-v-koroleve-na-ul-pionerskaja-vl-13-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.819702, 55.910533], [37.836159, 55.919776]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.827931, 55.915155]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 в г.Королев ул. Пионерская, д.51, сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Королев ул. Пионерская, д.51",
+            "cost":"Стоимость аренды в месяц: 43 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklamny-bilbord-v-g-korolev-yl-peeonerskaja-d-51"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.825568, 55.935047], [37.828362, 55.935405]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.828368, 55.935049]
+         },
+         "properties":{
+            "text":"Реклама на биллборде в Королеве на ул.Калиниградская, на пересечении с Болшевским ш. сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Королев ул.Калиниградская/Болшевское шоссе",
+            "cost":"Стоимость аренды в месяц: 38 500 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklama-na-billborde-v-koroleve-na-yl-kaliningradskay-na-peresechenee-s-bolshevskem-sh-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.793328, 55.909908], [37.809785, 55.91915]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.801556, 55.914529]
+         },
+         "properties":{
+            "text":"Свободный щит 3х6 в городе Королев на ул.Корсакова, д.10, сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев ул.Корсакова, д.10",
+            "cost":"Стоимость аренды в месяц: 32 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/svobodny-shchit-3x6-v-gorode-korolev-na-yl-korsakova-d-10-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.796113, 55.911376], [37.81257, 55.920618]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.804341, 55.915997]
+         },
+         "properties":{
+            "text":"Рекламный щит 6х3 в г. Королев, на ул. Ленина, д.16, сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, на ул. Ленина, д.16",
+            "cost":"Стоимость аренды в месяц: 33 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklamny-shchit-6x3-v-g-korolev-na-yl-lenina-d-16-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.849571, 55.933005], [37.866028, 55.942242]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.8578, 55.937624]
+         },
+         "properties":{
+            "text":"Рекламный уличный щит г. Королев, ул.Московская, д.15, пересечение с ул.Кутузова сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, ул.Московская, д.15",
+            "cost":"Стоимость аренды в месяц: 33 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklamny-ulichny-shchit-v-g-korolev-ul-moskovskaja-d15-peresechenie-s-ul-kutuzova-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.821391, 55.912218], [37.837848, 55.92146]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.82962, 55.91684]
+         },
+         "properties":{
+            "text":"Рекламный щит в городе Королев на Октябрьском бульваре, д.12,сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев на Октябрьском бульваре, д.12",
+            "cost":"Стоимость аренды в месяц: 33 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklamny-shchit-v-gorode-korolev-na-oktiabrskom-bulvare-d-12-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.846993, 55.905311], [37.86345, 55.914554]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.855222, 55.909933]
+         },
+         "properties":{
+            "text":"Реклама на рекламном щите в Королеве Орджоникидзе вл. 1А сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев Орджоникидзе вл. 1А ",
+            "cost":"Стоимость аренды в месяц: 33 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklama-na-reklamnom-shchite-v-koroleve-ordgonikidze-vl-1a-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.84269, 55.901177], [37.859147, 55.910422]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.850919, 55.9058]
+         },
+         "properties":{
+            "text":"Реклама на наружном щите 3х6 в г. Королев, Орджоникидзе н-в, д.7 по ул.Ильича, на повороте сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, Орджоникидзе н-в, д.7",
+            "cost":"Стоимость аренды в месяц: 33 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklama-na-narugnom-shchite-3x6-v-g-korolev-ordgonikidze-d-7-po-ul-ilicha-na-povorote-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.818525, 55.90967], [37.834983, 55.918913]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.826754, 55.914292]
+         },
+         "properties":{
+            "text":"Рекламный щит в г. Королев, ул.Пионерская, вл.49а сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, ул.Пионерская, вл.49а",
+            "cost":"Стоимость аренды в месяц: 43 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklamny-shchit-v-g-korolev-ul-peeonerskaja-vl-49a-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.830356, 55.913238], [37.837785, 55.92487]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.835319, 55.917066]
+         },
+         "properties":{
+            "text":"Рекламный щит в г. Королев, Циолковского проезд после пересечения с Октябрьским бульваром сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, Циолковского проезд/Октябрьский бульвар",
+            "cost":"Стоимость аренды в месяц: 33 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklamny-shchit-v-g-korolev-proezd-ciolkovskogo-posle-peresechenija-s-oktiabrskim-bulvarom-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.814169, 55.909474], [37.830626, 55.918716]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.822397, 55.914095]
+         },
+         "properties":{
+            "text":"Рекламный щит в г. Королев, ул Чайковского, д.10 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, ул Чайковского, д.10",
+            "cost":"Стоимость аренды в месяц: 33 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklamny-shchit-v-g-korolev-ul-chaikovskogo-d10-storona"
+         }
+      },
+
+  {
+         "type":"Feature",
+         "bbox":[[37.794666, 55.912233], [37.811123, 55.921476]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.802895, 55.916855]
+         },
+         "properties":{
+            "text":"Биллборд 6х3 в г. Королев, на ул.Корсакова. напротив д.1 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, ул.Корсакова. д.1",
+            "cost":"Стоимость аренды в месяц: 30 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/billbord-6x3-v-g-korolev-na-yl-korsakova-naprotiv-d1-storona"
+         }
+      },
+   {
+         "type":"Feature",
+         "bbox":[[37.796005, 55.912339], [37.812462, 55.921581]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.804233, 55.916961]
+         },
+         "properties":{
+            "text":"Реклама на баннерном щите в Королеве, на ул.Гагарина. д.10, сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев,  ул.Гагарина. д.10",
+            "cost":"Стоимость аренды в месяц: 32 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklama-na-bannernom-shchite-v-koroleve-na-yl-gagarina-d-10-ctorona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.805778, 55.913772], [37.808051, 55.923473]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.806946, 55.918615]
+         },
+         "properties":{
+            "text":"Щит рекламный в г. Королев, ул Ленина.комплекс «Золотые ворота» сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, ул Ленина,  комплекс «Золотые ворота»",
+            "cost":"Стоимость аренды в месяц: 32 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/shchit-reklamny-v-g-korolev-yl-lenina-kompleks-zolotie-vorota-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.789618, 55.91293], [37.837785, 55.914297]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.81372, 55.913798]
+         },
+         "properties":{
+            "text":"Стоимость наружного щита 3х6 в г. Королев, ул.Пионерская., Акуловский гу № 90 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, ул.Пионерская., Акуловский гу № 90 ",
+            "cost":"Стоимость аренды в месяц: 43 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/stoimost-narugnogo-shchita-v-g-korolev-yl-pionerskay-akulovsky-gu-90-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.830356, 55.913238], [37.837785, 55.92487]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.835319, 55.917066]
+         },
+         "properties":{
+            "text":"Наружный рекламный щит в г. Королеве, проезд Циолковского, напротив 4 опоры пересечение с Октябрьским бульваром, сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королеве, проезд Циолковского/Октябрьский бульвар",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/narugny-reklamny-shchit-v-g-koroleve-proezd-ciolkovskogo-naprotiv-4-opory-peresechenie-s-oktiabrskim-bulvarom-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.821697, 55.919468], [37.838154, 55.928708]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.829925, 55.924088]
+         },
+         "properties":{
+            "text":"Рекламное место в г. Королев, проезд Циолковского д.2 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, проезд Циолковского д.2",
+            "cost":"Стоимость аренды в месяц: 38 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklamnoe-mesto-v-g-korolev-proezd-ciolkovskogo-d-2-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.846993, 55.905311], [37.86345, 55.914554]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.855222, 55.909933]
+         },
+         "properties":{
+            "text":"Реклама на банере 3x6 в г. Королев, Орджоникидзе вл. 1А сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, Орджоникидзе вл. 1А",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklama-na-banere-3x6-v-g-korolev-ordzonikidze-vl-1a-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.84843, 55.906365], [37.864888, 55.915609]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.856659, 55.910987]
+         },
+         "properties":{
+            "text":"Рекламный щит в г. Королев, Дзержинского, д. 29 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, Дзержинского, д. 29",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklamny-schit-v-g-korolev-dzerginskogo-d-29-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.856686, 55.90963], [37.873143, 55.918873]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.864914, 55.914252]
+         },
+         "properties":{
+            "text":"Щит 3х6 рекламный в г. Королев,ул.Горького. д.33 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев,ул.Горького. д.33",
+            "cost":"Стоимость аренды в месяц: 43 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/shchit-reklamny-v-g-korolev-yl-gorkogo-d-33-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.857432, 55.903792], [37.873889, 55.913036]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.86566, 55.908414]
+         },
+         "properties":{
+            "text":"Биллборд 3х6 в г. Королев, проспект Космонавтов д.36 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, проспект Космонавтов д.36",
+            "cost":"Стоимость аренды в месяц: 38 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/billbord-3x6-v-g-korolev-prospekt-kosmonavtov-d-36-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.844244, 55.91179], [37.860701, 55.921032]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.852473, 55.916411]
+         },
+         "properties":{
+            "text":"Уличный щит в г. Королев, Дворцовый проезд д.8 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, Дворцовый проезд д.8 ",
+            "cost":"Стоимость аренды в месяц: 32 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/ulichny-shchit-v-g-korolev-dvorcovy-proezd-d-8-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.842097, 55.910826], [37.858554, 55.920068]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.850326, 55.915447]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 в г. Королев, Коммунальная ул. д.9 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, Коммунальная ул. д.9",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklamny-shchit-3x6-v-g-korolev-komynalnaja-ul-d-9-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.860019, 55.935274], [37.876476, 55.94451]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.868247, 55.939892]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 в г. Королев, ул.Советская напротив д.67 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Королев, ул.Советская д.67 ",
+            "cost":"Стоимость аренды в месяц: 30 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-konstrukciy-v-koroleve/reklamny-shchit-3x6-v-g-korolev-yl-sovetskaja-naprotiv-d-67-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.197354, 55.869122], [38.213811, 55.878374]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.205583, 55.873748]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Лосино-Петровский на ул. Первомайская, между домами 44 и 50, левая сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Лосино-Петровский ул. Первомайская 44",
+            "cost":"Стоимость аренды в месяц: 25 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gorode-losino-petrovskiy/reklamnyy-shchit-v-glosino-petrovskiy-na-ul-pervomayskaya-mezhdu-domami-44-i-50-levaya-storona"
+         }
+      },
+  {
+         "type":"Feature",
+        "bbox":[[38.197354, 55.869122], [38.213811, 55.878374]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.205583, 55.873748]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Лосино-Петровский на ул. Первомайская, между домами 44 и 50, левая сторона Б",
+            "name":"Рекламный щит",
+            "address":"г.Лосино-Петровский ул. Первомайская 44",
+            "cost":"Стоимость аренды в месяц: 23 000 рублей",
+           "url":"http://outdoormstore.ru/reklamnye-shchity-v-gorode-losino-petrovskiy/reklamnyy-shchit-v-glosino-petrovskiy-na-ul-pervomayskaya-mezhdu-domami-44-i-50-sleva-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+        "bbox":[[38.197354, 55.869122], [38.213811, 55.878374]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.205583, 55.873748]
+         },
+         "properties":{
+            "text":"Рекламный щит в Лосино-Петровском на ул. Первомайская, напротив д.44, в сторону пос. Монино, справа А",
+            "name":"Рекламный щит",
+            "address":"г.Лосино-Петровский ул. Первомайская 44",
+            "cost":"Стоимость аренды в месяц: 25 000 рублей",
+          "url":"http://outdoormstore.ru/reklamnye-shchity-v-gorode-losino-petrovskiy/reklamnyy-shchit-v-losino-petrovskom-na-ul-pervomayskaya-naprotiv-d44-v-storonu-posmonino-sprava"
+         }
+      },
+  {
+         "type":"Feature",
+        "bbox":[[38.197354, 55.869122], [38.213811, 55.878374]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.205583, 55.873748]
+         },
+         "properties":{
+            "text":"Рекламный щит в Лосино-Петровском на ул. Первомайская, напротив д.44, в сторону пос. Монино, справа Б",
+            "name":"Рекламный щит",
+            "address":"г.Лосино-Петровский ул. Первомайская 44",
+            "cost":"Стоимость аренды в месяц: 23 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gorode-losino-petrovskiy/reklamnyy-shchit-v-gorode-losino-petrovskiy-na-ul-pervomayskaya-naprotiv-d44-v-storonu-posmonino-pravaya-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.199492, 55.866551], [38.215949, 55.875804]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.207721, 55.871178]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Лосино-Петровский на ул. Первомайская, напротив д.10, в сторону пос. Монино, левая сторона Б",
+            "name":"Рекламный щит",
+            "address":"г.Лосино-Петровский  ул. Первомайская, д.10",
+            "cost":"Стоимость аренды в месяц: 25 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gorode-losino-petrovskiy/bilbord-v-glosino-petrovskiy-na-ul-pervomayskaya-naprotiv-d10-v-storonu-posmonino-levaya-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.19659, 55.86895], [38.213048, 55.878203]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.204819, 55.873577]
+         },
+         "properties":{
+            "text":"Реклама на щите 3х6 в Лосино-Петровском на ул. Первомайская, у д.21,напротив больницы, левая сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Лосино-Петровский  ул. Первомайская, д.21",
+            "cost":"Стоимость аренды в месяц: 25 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gorode-losino-petrovskiy/reklama-na-shchite-3h6-v-losino-petrovskom-na-ul-pervomayskaya-u-d21naprotiv-bolnicy-levaya-storona"
+         }
+      },
+  {
+         "type":"Feature",
+          "bbox":[[38.19659, 55.86895], [38.213048, 55.878203]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.204819, 55.873577]
+         },
+         "properties":{
+            "text":"Реклама на щите 3х6 в Лосино-Петровском на ул. Первомайская, у д.21,напротив больницы, левая сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Лосино-Петровский  ул. Первомайская, д.21",
+            "cost":"Стоимость аренды в месяц: 23 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gorode-losino-petrovskiy/reklamnyy-bilbord-v-glosino-petrovskiy-na-ul-pervomayskaya-u-d21-naprotiv-bolnicy-levaya-storona-b"
+         }
+      },
+
+
+  {
+         "type":"Feature",
+         "bbox":[[38.198171, 55.856199], [38.214629, 55.865455]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.2064, 55.860827]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Лосино-Петровский на ул. 7-го Ноября, между домами 18 и 20, в сторону пос. Монино, правая сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Лосино-Петровский ул. 7-го Ноября, д. 18",
+            "cost":"Стоимость аренды в месяц: 25 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gorode-losino-petrovskiy/reklamnyy-shchit-v-glosino-petrovskiy-na-ul-7-go-noyabrya-mezhdu-domami-18-i-20-v-storonu-posmonino-pravaya-storona"
+         }
+      },
+   {
+         "type":"Feature",
+        "bbox":[[38.198171, 55.856199], [38.214629, 55.865455]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.2064, 55.860827]
+         },
+         "properties":{
+            "text":"Рекламный щит в г.Лосино-Петровский на ул. 7-го Ноября, между домами 18 и 20, в сторону пос. Монино, правая сторона Б",
+            "name":"Рекламный щит",
+            "address":"г.Лосино-Петровский ул. 7-го Ноября, д. 18",
+            "cost":"Стоимость аренды в месяц: 23 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gorode-losino-petrovskiy/reklamnyy-shchit-v-glosino-petrovskiy-na-ul-7-go-noyabrya-mezhdu-domami-18-i-20-v-storonu-posmonino-pravaya-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[38.194812, 55.839512], [38.210263, 55.844708]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.199187, 55.843955]
+         },
+         "properties":{
+            "text":"Реклама на Билборде в г.Лосино-Петровский на Монинском шоссе, через 150 м после пересечения с Новинским шоссе, в сторону пос.Обухово, левая сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Лосино-Петровский Монинское шоссе/Новинское шоссе",
+            "cost":"Стоимость аренды в месяц: 25 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gorode-losino-petrovskiy/reklama-na-bilborde-v-glosino-petrovskiy-na-moninskom-shosse-cherez-150-m-posle-peresecheniya-s-novinskim-shosse-v-storonu-posobuhovo-levaya-storona"
+         }
+      },
+  {
+         "type":"Feature",
+          "bbox":[[38.194812, 55.839512], [38.210263, 55.844708]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.199187, 55.843955]
+         },
+         "properties":{
+            "text":"Реклама на Билборде в г.Лосино-Петровский на Монинском шоссе, через 150 м после пересечения с Новинским шоссе, в сторону пос.Обухово, левая сторона Б",
+            "name":"Рекламный щит",
+            "address":"г.Лосино-Петровский Монинское шоссе/Новинское шоссе",
+             "cost":"Стоимость аренды в месяц: 23 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-v-gorode-losino-petrovskiy/reklamnyy-shchit-6h3-v-glosino-petrovskiy-na-moninskom-shosse-cherez-150-m-posle-peresecheniya-s-novinskim-shosse-v-storonu-posobuhovo-levaya-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.74428, 55.919503], [37.760737, 55.928743]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.752508, 55.924124]
+         },
+         "properties":{
+            "text":"Аренда рекламного щита в г. Мытищи, ул. Белобородова, д. 2 к. 1 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, ул. Белобородова, д. 2 к. 1",
+            "cost":"Стоимость аренды в месяц: 48 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/arenda-reklamnogo-shchita-v-g-mitishi-ul-beloborodova-d-2-k-1-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.738818, 55.915059], [37.755275, 55.9243]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.747047, 55.91968]
+         },
+         "properties":{
+            "text":"Рекламный щит в г. Мытищи, ул. Белобородова, д. 11, сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, ул. Белобородова, д. 11",
+            "cost":"Стоимость аренды в месяц: 45 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/reklamny-shchit-v-g-mitishi-ul-beloborodova-dom-11-storona"
+         }
+      },
+  {
+         "type":"Feature",
+          "bbox":[[37.738818, 55.915059], [37.755275, 55.9243]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.747047, 55.91968]
+         },
+         "properties":{
+            "text":"Рекламный щит в г. Мытищи, ул. Белобородова, д. 11, сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, ул. Белобородова, д. 11",
+            "cost":"Стоимость аренды в месяц: 42 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/reklamny-shchit-6x3-v-gorode-mitishi-ul-beloborodova-d-11-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.709524, 55.907521], [37.725981, 55.916764]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.717752, 55.912143]
+         },
+         "properties":{
+            "text":"Биллборд 3х6 в г. Мытищи, ул. Юбилейная, д. 13 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, ул. Юбилейная, д. 13",
+            "cost":"Стоимость аренды в месяц: 48 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/billbord-3x6-v-gorode-mitishi-ul-ubileinay-dom-13-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.709524, 55.907521], [37.725981, 55.916764]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.717752, 55.912143]
+         },
+         "properties":{
+            "text":"Биллборд 3х6 в г. Мытищи, ул. Юбилейная, д. 13 сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, ул. Юбилейная, д. 13",
+			"cost":"Стоимость аренды в месяц: 42 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/cena-reklamnogo-shchita-v-g-mitishi-ul-ubileinay-d-13-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.706074, 55.905719], [37.722532, 55.914963]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.714303, 55.910341]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 в г. Мытищи, ул. Юбилейная, д. 19 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, ул. Юбилейная, д. 19",
+            "cost":"Стоимость аренды в месяц: 48 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/reklamny-shchit-3x6-v-gorode-mitishi-ul-ubileynay-dom-19-storona"
+         }
+      },
+  {
+         "type":"Feature",
+          "bbox":[[37.706074, 55.905719], [37.722532, 55.914963]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.714303, 55.910341]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 в г. Мытищи, ул. Юбилейная, д. 19 сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, ул. Юбилейная, д. 19",
+             "cost":"Стоимость аренды в месяц: 42 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/reklamny-shchit-3x6-v-gorode-mitishi-ul-ubileynay-dom-19-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.74428, 55.919503], [37.760737, 55.928743]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.752508, 55.924124]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 в Мытищи, ул. Белобородова, д. 2 к. 1 сторона Б",
+            "name":"Рекламный щит",
+            "address":"Мытищи, ул. Белобородова, д. 2 к. 1",
+            "cost":"Стоимость аренды в месяц: 48 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/arenda-reklamnogo-shchita-v-g-mitishi-ul-beloborodova-d-2-k-1-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.731407, 55.96334], [37.742708, 55.966937]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.736949, 55.965143]
+         },
+         "properties":{
+            "text":"Щит 3х6 в Мытищинском р-не, д. Свиноедово, д. 2А сторона А",
+            "name":"Рекламный щит",
+            "address":"Мытищинский район, д. Свиноедово, д. 2А",
+            "cost":"Стоимость аренды в месяц: 36 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/shchit-3x6-v-mitishinskom-r-ne-derevnj-svinoedovo-d-2a-storona"
+         }
+      },
+  {
+         "type":"Feature",
+           "bbox":[[37.731407, 55.96334], [37.742708, 55.966937]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.736949, 55.965143]
+         },
+         "properties":{
+            "text":"Щит 3х6 в Мытищинском р-не, д. Свиноедово, д. 2А сторона Б",
+            "name":"Рекламный щит",
+            "address":"Мытищинский район, д. Свиноедово, д. 2А",
+            "cost":"Стоимость аренды в месяц: 30 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/reklamny-shchit-6x3-v-mitishenskom-rne-d-svinoedovo-d-2a-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.705311, 55.885989], [37.721768, 55.895237]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.713539, 55.890613]
+         },
+         "properties":{
+            "text":"Рекламный щит 6х3 в г. Мытищи, ул. Трудовая, д. 31 (50 м после выезда с АЗС ТНК) сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, ул. Трудовая, д. 31",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/reklamny-shchit-6x3-v-gorode-mitishi-ul-trudovay-d-31-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.705311, 55.885989], [37.721768, 55.895237]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.713539, 55.890613]
+         },
+         "properties":{
+            "text":"Рекламный щит 6х3 в г. Мытищи, ул. Трудовая, д. 31 (50 м после выезда с АЗС ТНК) сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, ул. Трудовая, д. 31",
+            "cost":"Стоимость аренды в месяц: 32 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/reklamny-bilboard-v-g-mitishi-ul-trudovaj-d-31-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.763459, 55.921016], [37.779916, 55.930256]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.771687, 55.925637]
+         },
+         "properties":{
+            "text":"Билборд в г.Мытищи, ул. Силикатная, д. 7 сторона А",
+            "name":"Рекламный щит",
+            "address":"г.Мытищи, ул. Силикатная, д. 7",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/bilboard-v-g-mitishi-ul-selikathaj-dom-7-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.763459, 55.921016], [37.779916, 55.930256]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.771687, 55.925637]
+         },
+         "properties":{
+            "text":"Билборд в г.Мытищи, ул. Силикатная, д. 7 сторона Б",
+            "name":"Рекламный щит",
+            "address":"г.Мытищи, ул. Силикатная, д. 7",
+            "cost":"Стоимость аренды в месяц: 32 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/reklamny-shchit-v-g-mitishi-ul-silikatnaj-d-7-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.745996, 55.920482], [37.762453, 55.929722]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.754224, 55.925102]
+         },
+         "properties":{
+            "text":"Рекламный щит в г. Мытищи, Олимпийский проспект, д. 21 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, Олимпийский проспект, д. 21",
+            "cost":"Стоимость аренды в месяц: 48 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/reklamny-shchit-v-g-mitishchi-olimpiesky-prospekt-d-21-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.745996, 55.920482], [37.762453, 55.929722]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.754224, 55.925102]
+         },
+         "properties":{
+            "text":"Рекламный щит в г. Мытищи, Олимпийский проспект, д. 21 сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, Олимпийский проспект, д. 21",
+            "cost":"Стоимость аренды в месяц: 42 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/reklamny-shchit-3x6-v-g-mitishi-olimpisky-prospekt-d-21-storona-b"
+         }
+      },
+
+
+  {
+         "type":"Feature",
+         "bbox":[[37.765327, 55.908192], [37.781784, 55.917435]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.773556, 55.912814]
+         },
+         "properties":{
+            "text":"Щит рекламный 6х3 г. Мытищи, Олимпийский проспект, между д.3 к. 1 и д.5 сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, Олимпийский проспект,  д.3 к. 1",
+            "cost":"Стоимость аренды в месяц: 50 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/shchit-reklamny-6x3-v-g-mitishi-olimpisky-prospekt-megdu-d-3-and-d-5-storona"
+         }
+      },
+   {
+   		"type":"Feature",
+         "bbox":[[37.765327, 55.908192], [37.781784, 55.917435]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.773556, 55.912814]
+         },
+         "properties":{
+            "text":"Щит рекламный 6х3 г. Мытищи, Олимпийский проспект, между д.3 к. 1 и д.5 сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, Олимпийский проспект,  д.3 к. 1",
+            "cost":"Стоимость аренды в месяц: 45 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/foto-bilborda-3x6-g-mitishi-olimpisky-prospekt-megdu-d-3-i-dom-5-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.722783, 55.972564], [37.735458, 55.974544]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.729116, 55.973526]
+         },
+         "properties":{
+            "text":"Рекламный щит Мытищинский р-н, Коргашинский с.о., д.Пирогово, ул.Совхозная сторона А",
+            "name":"Рекламный щит",
+            "address":"Мытищинский район, д.Пирогово, ул.Совхозная",
+            "cost":"Стоимость аренды в месяц: 37 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/reklamny-shchit-d-pirogovo-ul-sovhoznay-storona"
+         }
+      },
+  {
+         "type":"Feature",
+ "bbox":[[37.722783, 55.972564], [37.735458, 55.974544]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.729116, 55.973526]
+         },
+         "properties":{
+            "text":"Рекламный щит Мытищинский р-н, Коргашинский с.о., д.Пирогово, ул.Совхозная сторона Б",
+            "name":"Рекламный щит",
+            "address":"Мытищинский район, д.Пирогово, ул.Совхозная",
+            "cost":"Стоимость аренды в месяц: 33 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-ulichnye-konstrukcii-siti-formaty-v-mytishchah/reklamny-shchit-v-pirogovo-ul-sovhoznay-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.81536817968747,55.76719666077824],[37.870299820312475,55.782919453032875]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.842833999999975,55.775058853122076]
+         },
+         "properties":{
+            "text":"Рекламный щит 5х15 на МКАД 1км+855м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 1км",
+            "cost":"Стоимость аренды в месяц: 170 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-5x15-na-mkad-1km-855m-vneshnia-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.81536817968747,55.76719666077824],[37.870299820312475,55.782919453032875]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.842833999999975,55.775058853122076]
+         },
+         "properties":{
+            "text":"Рекламный щит 5х15 на МКАД 1км+855м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 1км",
+            "cost":"Стоимость аренды в месяц: 130 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/cena-reklamnogo-shchita-na-mkad-1km-855m-vneshnia-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.81550717968746,55.757618611620344],[37.870438820312465,55.77334528320366]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.842972999999965,55.76548274373688]
+         },
+         "properties":{
+            "text":"Суперборд на МКАД 2км+735м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 2км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/superbord-na-mkad-2-km-735-m-vneshnia-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.81550717968746,55.757618611620344],[37.870438820312465,55.77334528320366]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.842972999999965,55.76548274373688]
+         },
+         "properties":{
+            "text":"Суперсайт по МКАДу 2км+735м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАДу, 2км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/supersait-po-mkadu-2km-735m-vneshnia-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.81503567968746,55.74858632273112],[37.86996732031245,55.76431665220475]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.84250149999997,55.756452283894966]
+         },
+         "properties":{
+            "text":"Рекламная конструкция на МКАД 3км+565м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"Мкад, 3км.",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamnaj-konstrukcia-na-mkad-3km-565m-vneshnia-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.81503567968746,55.74858632273112],[37.86996732031245,55.76431665220475]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.84250149999997,55.756452283894966]
+         },
+         "properties":{
+            "text":"Рекламный щит МКАД 3км+565м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 3км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/eklamny-shchit-mkad-3km-565m-vneshnia-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.802293179687496,55.6864482135542],[37.85722482031248,55.702203697330596]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.829759,55.6943267525699]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 10км+965м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 10км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reclamny-shchit-na-mkad-10km-965m-vneshnjj-storona"
+         }
+      },
+  {
+         "type":"Feature",
+          "bbox":[[37.802293179687496,55.6864482135542],[37.85722482031248,55.702203697330596]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.829759,55.6943267525699]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 10км+965м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 10км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":""
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.803815679687496,55.67753342005372],[37.85874732031248,55.69329251116969]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83128149999998,55.685413762839396]
+         },
+         "properties":{
+            "text":"Суперсайт на Мкад 11км+305м Внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"Мкад 11км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/supersait-na-mkade-11km-305m-vneshnjj-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.803815679687496,55.67753342005372],[37.85874732031248,55.69329251116969]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83128149999998,55.685413762839396]
+         },
+         "properties":{
+            "text":"Рекламная поверхность на МКАД 11км+595м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 11км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reclamnay-poverhnost-mkad-11km-595m-vneshnia-storona"
+         }
+      },
+  {
+         "type":"Feature",
+       "bbox":[[37.803815679687496,55.67753342005372],[37.85874732031248,55.69329251116969]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83128149999998,55.685413762839396]
+         },
+         "properties":{
+            "text":"Рекламная поверхность на МКАД 11км+595м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 11км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/rk-na-mkade-11km-595m-vneshnia-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+        "bbox":[[37.803815679687496,55.67753342005372],[37.85874732031248,55.69329251116969]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83128149999998,55.685413762839396]
+         },
+         "properties":{
+            "text":"Суперсайт на МКАДе 11км+705м Внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 11км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/supersait-na-mkade-11km-705m-vneshnia-storona"
+         }
+      },
+  {
+         "type":"Feature",
+          "bbox":[[37.803815679687496,55.67753342005372],[37.85874732031248,55.69329251116969]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83128149999998,55.685413762839396]
+         },
+         "properties":{
+            "text":"Суперсайт на МКАДе 11км+705м Внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 11км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/superbord-po-mkadu-11km-705m-vneshnjj-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.80705867968747,55.668700613370895],[37.86199032031246,55.68446327828347]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83452449999998,55.67658274315407]
+         },
+         "properties":{
+            "text":"Рекламная конструкция 5х15 по МКАД 12км+105м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 12км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamnay-konstrukcij-5x15-po-mkad-12km-105m-vneshnjj-storona"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.80705867968747,55.668700613370895],[37.86199032031246,55.68446327828347]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83452449999998,55.67658274315407]
+         },
+         "properties":{
+            "text":"Рекламная конструкция 5х15 по МКАД 12км+105м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 12км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/bolshoi-reclamny-shchit-na-mkade-12km-105m-vneshnjj-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+         "bbox":[[37.81025667968745,55.65997435302596],[37.865188320312434,55.675740548266866]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83772249999995,55.66785824807123]
+         },
+         "properties":{
+            "text":"Рекламный щит 6х15 на МКАДе 13км+095м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 13км",
+            "cost":"Стоимость аренды в месяц: 170 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reclamny-shchit-6x15-na-mkad-13km-095m-vneshnjj-storona"
+         }
+      },
+
+  {
+         "type":"Feature",
+         "bbox":[[37.81025667968745,55.65997435302596],[37.865188320312434,55.675740548266866]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83772249999995,55.66785824807123]
+         },
+         "properties":{
+            "text":"Рекламный щит 6х15 на МКАДе 13км+095м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 13км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reclamny-shchit-6x15-na-mkad-13km-095m-vneshnjj-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+          "bbox":[[37.81025667968745,55.65997435302596],[37.865188320312434,55.675740548266866]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83772249999995,55.66785824807123]
+         },
+         "properties":{
+            "text":"Суперсайт 4х12 на МКАД 13км+385м Внешняя сторона А",
+            "name":"Суперсайт 4х12",
+            "address":"МКАД 13км",
+            "cost":"Стоимость аренды в месяц: 165 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/supersait-na-mkade-4x12-13km-385m-vneshnia-storona"
+         }
+      },
+  {
+         "type":"Feature",
+          "bbox":[[37.81025667968745,55.65997435302596],[37.865188320312434,55.675740548266866]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83772249999995,55.66785824807123]
+         },
+         "properties":{
+            "text":"Рекламный щит на Мкад 13км+905м Внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 13км",
+            "cost":"Стоимость аренды в месяц: 165 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-4x12-na-mkad-13km-905m-vneshnia-storona"
+         }
+      },
+  {
+         "type":"Feature",
+          "bbox":[[37.81025667968745,55.65997435302596],[37.865188320312434,55.675740548266866]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83772249999995,55.66785824807123]
+         },
+         "properties":{
+            "text":"Рекламный щит на Мкад 13км+905м Внешняя сторона Б возле ИКЕА",
+            "name":"Рекламный щит",
+            "address":"МКАД 13км",
+            "cost":"Стоимость аренды в месяц: 137 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-na-mkad-13km-905m-vneshnjj-storona-b-vozle-ikea"
+         }
+      },
+
+   {
+         "type":"Feature",
+         "bbox":[[37.81108717968746,55.65067703530172],[37.86601882031245,55.66644699150727]],
+         "geometry":{
+            "type":"Point",
+            "coordinates": [37.83855299999996,55.65856281093357]
+         },
+         "properties":{
+            "text":"Суперсайт МКАД 14км+305м Внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 14км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/supersait-mkad-14km-305m-vneshnia-storona"
+         }
+      },
+{
+         "type":"Feature",
+                 "bbox":[[37.81108717968746,55.65067703530172],[37.86601882031245,55.66644699150727]],
+         "geometry":{
+            "type":"Point",
+            "coordinates": [37.83855299999996,55.65856281093357]
+         },
+         "properties":{
+            "text":"Суперсайт МКАД 14км+305м Внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 14км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/superbord-po-mkady-14km-305m-vneshnia-storona-b"
+         }
+      },
+{
+         "type":"Feature",
+         "bbox":[[37.81976758984372,55.64636912696921],[37.84723341015623,55.65425577390134]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83350049999997,55.65031264984066]
+         },
+         "properties":{
+            "text":"Рекламный щит МКАД 15км+475м. Внешняя сторона А, в р-не ул Энергетиков",
+            "name":"Рекламный щит",
+            "address":"МКАД 15км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reclamny-shchit-mkad-15km-475m-vneshnia-storona-v-r-ne-ul-energetikov"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.81976758984372,55.64636912696921],[37.84723341015623,55.65425577390134]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83350049999997,55.65031264984066]
+         },
+         "properties":{
+            "text":"Рекламный щит МКАД 15км+475м. Внешняя сторона Б, в р-не ул Энергетиков",
+            "name":"Рекламный щит",
+            "address":"МКАД 15км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reclamny-shchit-na-mkade-15km-475m-vneshnia-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.77939708984375,55.61967439044555],[37.806862910156255,55.627566435577194]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.79313,55.623620612491436]
+         },
+         "properties":{
+            "text":"Суперсайт на МКАДе 19км+075м Внешняя сторона А в р-не Беседы",
+            "name":"Рекламный щит",
+            "address":"МКАД 19км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/supersait-na-mkade-19km-075m-vneshnij-storona-v-r-ne-becedi"
+         }
+      },
+  {
+         "type":"Feature",
+  "bbox":[[37.77939708984375,55.61967439044555],[37.806862910156255,55.627566435577194]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.79313,55.623620612491436]
+         },
+         "properties":{
+            "text":"Суперсайт на МКАДе 19км+075м Внешняя сторона Б в р-не Беседы",
+            "name":"Рекламный щит",
+            "address":"МКАД 19км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamnaj-konstrukcij-po-mkady-19km-075m-vneshnia-storona-b"
+         }
+      },
+{
+         "type":"Feature",
+  "bbox":[[37.77939708984375,55.61967439044555],[37.806862910156255,55.627566435577194]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.79313,55.623620612491436]
+                     },
+         "properties":{
+            "text":"Рекламный щит на 19км+235м по МКАД внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 19км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reclamny-shchit-na-19km-235m-po-mkad-vneshnjj-storona-b"
+         }
+      },
+
+{
+           "type":"Feature",
+  "bbox":[[37.77939708984375,55.61967439044555],[37.806862910156255,55.627566435577194]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.79313,55.623620612491436]
+                     },
+         "properties":{
+            "text":"Рекламный щит на 19км+235м по МКАД внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 19км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/supersait-po-mkad-19km-235m-vneshnia-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.77939708984375,55.61967439044555],[37.806862910156255,55.627566435577194]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.79313,55.623620612491436]
+                     },
+         "properties":{
+            "text":"Рекламный щит на 19км+320м по МКАД внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 19км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/superbord-mkad-19-km-320m-vneshnjj-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+           "bbox":[[37.77939708984375,55.61967439044555],[37.806862910156255,55.627566435577194]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.79313,55.623620612491436]
+                     },
+         "properties":{
+            "text":"Рекламный щит на 19км+320м по МКАД внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 19км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/superbord-na-mkade-19-km-320m-vneshnjj-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+           "bbox":[[37.77939708984375,55.61967439044555],[37.806862910156255,55.627566435577194]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.79313,55.623620612491436]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 19км+890м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 19км",
+            "cost":"Стоимость аренды в месяц: 170 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reclamny-shchit-na-mkad-19km-890m-vneshnia-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+          "bbox":[[37.77939708984375,55.61967439044555],[37.806862910156255,55.627566435577194]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.79313,55.623620612491436]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 19км+890м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 19км",
+            "cost":"Стоимость аренды в месяц: 130 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamnaj-konstrukciaj-na-mkad-19km-890-m-vneshnia-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.76820408984376,55.613535303465504],[37.79566991015627,55.62142858980441]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.78193700000001,55.61748214613216]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 20км+255м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 20км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/superbord-mkad-20-km-255m-vneshnjj-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+       "bbox":[[37.76820408984376,55.613535303465504],[37.79566991015627,55.62142858980441]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.78193700000001,55.61748214613216]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 20км+255м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 20км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/supersait-na-mkad-20km-255m-vneshnjj-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.76820408984376,55.613535303465504],[37.79566991015627,55.62142858980441]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.78193700000001,55.61748214613216]
+         },
+         "properties":{
+            "text":"Рекламный щит 4х12 МКАД 20км+365м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 20км",
+            "cost":"Стоимость аренды в месяц: 150 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reclamny-shchit-4x12-mkad-20km-365-m-vneshnjj-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+           "bbox":[[37.76820408984376,55.613535303465504],[37.79566991015627,55.62142858980441]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.78193700000001,55.61748214613216]
+         },
+         "properties":{
+            "text":"Рекламный щит 4х12 МКАД 20км+365м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 20км",
+            "cost":"Стоимость аренды в месяц: 130 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-po-mkad-20km-365m-vneshnia-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+            "bbox":[[37.76820408984376,55.613535303465504],[37.79566991015627,55.62142858980441]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.78193700000001,55.61748214613216]
+         },
+         "properties":{
+            "text":"Рекламный щит 4х12 МКАД 20км+420м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 20км",
+            "cost":"Стоимость аренды в месяц: 170 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/bolshoe-supersait-na-mkade-20km-420m-vneshnia-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.76820408984376,55.613535303465504],[37.79566991015627,55.62142858980441]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.78193700000001,55.61748214613216]
+         },
+         "properties":{
+            "text":"Рекламный щит 4х12 МКАД 20км+420м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 20км",
+            "cost":"Стоимость аренды в месяц: 170 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-po-mkad-20km-365m-vneshnia-storona-b"
+         }
+      },
+  {
+         "type":"Feature",
+          "bbox":[[37.76820408984376,55.613535303465504],[37.79566991015627,55.62142858980441]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.78193700000001,55.61748214613216]
+         },
+         "properties":{
+            "text":"Рекламный щит по МКАДу 20км+555м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 20км",
+            "cost":"Стоимость аренды в месяц: 150 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-po-mkady-20km-555-m"
+         }
+      },
+{
+         "type":"Feature",
+         "bbox":[[37.76820408984376,55.613535303465504],[37.79566991015627,55.62142858980441]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.78193700000001,55.61748214613216]
+         },
+         "properties":{
+            "text":"Рекламный щит по МКАДу 20км+555м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 20км",
+            "cost":"Стоимость аренды в месяц: 130 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/shchit-reklamny-na-mkade-20km-555m-vneshnia-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.76820408984376,55.613535303465504],[37.79566991015627,55.62142858980441]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.78193700000001,55.61748214613216]
+         },
+         "properties":{
+            "text":"Рекламный щит с подсветкой на МКАД 20км+905м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 20км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-s-podsvetkoi-na-mkad-20km-905m-vneshnia-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+          "bbox":[[37.76820408984376,55.613535303465504],[37.79566991015627,55.62142858980441]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.78193700000001,55.61748214613216]
+         },
+         "properties":{
+            "text":"Рекламный щит с подсветкой на МКАД 20км+905м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 20км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/stoimost-reklamnogo-shchita-na-mkad-20km-905m-vneshnia-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.73366858984376,55.59543592208859],[37.76113441015627,55.60333286726505]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.74740150000001,55.59938459422454]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 23км+655м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 23км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-na-mkad-23km-655m-vneshnia-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+          "bbox":[[37.73366858984376,55.59543592208859],[37.76113441015627,55.60333286726505]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.74740150000001,55.59938459422454]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 23км+655м внешняя сторона Б перед Каширским шоссе",
+            "name":"Рекламный щит",
+            "address":"МКАД 23км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/superbord-23km-655m-mkad-vneshnia-storona-b-pered-kashirskim-shosse"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.69545858984371,55.57985683772652],[37.72292441015622,55.5877569316396]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.70919149999997,55.58380708427418]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 26км+755м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 26км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/supersait-na-mkad-26-km-755m-vneshnia-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.69545858984371,55.57985683772652],[37.72292441015622,55.5877569316396]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.70919149999997,55.58380708427418]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 26км+755м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 26км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/arenda-reklamnogo-shchita-na-mkad-26km-755m-vneshnia-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.66879658984371,55.57049286359364],[37.69626241015619,55.5783948498139]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.68252949999994,55.57444405632096]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 28км+105м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 28км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reclamny-shchit-na-mkad-28km-105m-vneshnia-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.66879658984371,55.57049286359364],[37.69626241015619,55.5783948498139]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.68252949999994,55.57444405632096]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 28км+105м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 28км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/bolshoy-reklamniy-shchit-na-mkad-28km-105m-vneshnia-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.65153108984372,55.56831408965353],[37.67899691015623,55.57621651613908]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.66526399999997,55.57226550251955]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 29км+705м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 29км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-na-mkad-29km-705m-vneshnia-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.65153108984372,55.56831408965353],[37.67899691015623,55.57621651613908]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.66526399999997,55.57226550251955]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 29км+705м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 29км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-na-mkad-29km-705m-vneshnia-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.619605089843766,55.56992075360373],[37.647070910156245,55.577822855431435]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.633338000000016,55.573872004136355]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 31км+405м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 31км",
+            "cost":"Стоимость аренды в месяц: 170 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/arenda-supersaita-na-mkad-31km-405m-vneshnia-storona"
+         }
+      },
+{
+         "type":"Feature",
+         "bbox":[[37.619605089843766,55.56992075360373],[37.647070910156245,55.577822855431435]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.633338000000016,55.573872004136355]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 31км+405м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 31км",
+            "cost":"Стоимость аренды в месяц: 130 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklama-na-reklamnom-shchite-na-mkad-31km-405m-vneshnia-storona-b"
+         }
+      },
+{
+         "type":"Feature",
+         "bbox":[[37.47112258984371,55.61332931192624],[37.49858841015621,55.62122263991121]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.48485549999996,55.61727617541651]
+         },
+         "properties":{
+            "text":"Рекламный щит МКАД 42км+125м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 42км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-mkad-42km-125m-vneshnia-storona"
+         }
+      },{
+         "type":"Feature",
+          "bbox":[[37.47112258984371,55.61332931192624],[37.49858841015621,55.62122263991121]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.48485549999996,55.61727617541651]
+         },
+         "properties":{
+            "text":"Рекламный щит МКАД 42км+125м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 42км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-mkad-42km-125m-vneshnia-storona-b"
+         }
+      },
+        {
+         "type":"Feature",
+         "bbox":[[37.370365179687504,55.85069596696284],[37.4252968203125,55.86638492193699]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.39783100000001,55.85854123971784]
+         },
+         "properties":{
+            "text":"Рекламный щит на 71 километре МКАД внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 71км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-na-71-kilometre-mkad-vneshnjj-storona"
+         }
+      },
+{
+         "type":"Feature",
+          "bbox":[[37.370365179687504,55.85069596696284],[37.4252968203125,55.86638492193699]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.39783100000001,55.85854123971784]
+         },
+         "properties":{
+            "text":"Рекламный щит на 71 километре МКАД внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 71км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/supersait-na-71km-po-mkadu-vneshnjj-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.48784458984372,55.890371779261464],[37.515310410156225,55.898209006744096]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.501577499999975,55.894290591717706]
+         },
+         "properties":{
+            "text":"Рекламный щит 5х15 по Мкаду 79км+705м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 79км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-5x15-po-mkadu-79km-705m-vneshnia-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+          "bbox":[[37.48784458984372,55.890371779261464],[37.515310410156225,55.898209006744096]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.501577499999975,55.894290591717706]
+         },
+         "properties":{
+            "text":"Рекламный щит 5х15 по Мкаду 79км+705м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 79км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/cena-supersaita-na-mkad-79km-705m-vneshnia-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.52965658984376,55.90385306691079],[37.55712241015624,55.91168755988678]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.54338950000001,55.90777051207515]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 82км+405м внешняя сторона А, перед ТРЦ РИО",
+            "name":"Рекламный щит",
+            "address":"МКАД 82км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-na-mkade-82km-405m-vneshnia-storona-pered-trc-rio"
+         }
+      },
+
+{
+         "type":"Feature",
+          "bbox":[[37.52965658984376,55.90385306691079],[37.55712241015624,55.91168755988678]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.54338950000001,55.90777051207515]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 82км+405м внешняя сторона Б, перед ТРЦ РИО",
+            "name":"Рекламный щит",
+            "address":"МКАД 82км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reclamny-shchit-na-mkade-82km-405m-vneshnjj-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.60588358984369,55.89773397387048],[37.63334941015618,55.90556970807867]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.61961649999995,55.90165203966844]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 87км+105м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 87км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-na-mkad-87-km-105m-vneshnjj-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+        "bbox":[[37.60588358984369,55.89773397387048],[37.63334941015618,55.90556970807867]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.61961649999995,55.90165203966844]
+         },
+         "properties":{
+            "text":"Рекламный щит на МКАД 87км+105м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 87км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/bolshaj-reklamnaj-konstrukcia-5h15-na-mkad-87km-105m-vneshnjj-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.621060089843695,55.89482366260624],[37.648525910156174,55.90265998712815]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.63479299999992,55.8987420235694]
+         },
+         "properties":{
+            "text":"Рекламный щит на 88 км+905м МКАД внешняя сторона Б, перед гипермаркетом АШАН",
+            "name":"Рекламный щит",
+            "address":"МКАД 88км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-na-88km-905m-mkad-vneshnia-storona-b-pered-gipermarketom-ashan"
+         }
+      },
+
+{
+         "type":"Feature",
+           "bbox":[[37.621060089843695,55.89482366260624],[37.648525910156174,55.90265998712815]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.63479299999992,55.8987420235694]
+         },
+         "properties":{
+            "text":"Рекламный щит на 88 км+905м МКАД внешняя сторона А, перед гипермаркетом АШАН",
+            "name":"Рекламный щит",
+            "address":"МКАД 88км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/cena-reclamnoi-poverhnosty-na-mkad-88km-905m-vneshnia-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.804774589843724,55.83088078528746],[37.83224041015623,55.838730074695754]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.818507499999974,55.834805628876175]
+         },
+         "properties":{
+            "text":"Рекламный щит 5х15 на МКАД 102км+105м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАД 102км",
+            "cost":"Стоимость аренды в месяц: 190 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/reklamny-shchit-5x15-na-mkad-102km-105m-vneshnia-storona"
+         }
+      },
+
+
+        {
+         "type":"Feature",
+          "bbox":[[37.804774589843724,55.83088078528746],[37.83224041015623,55.838730074695754]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.818507499999974,55.834805628876175]
+         },
+         "properties":{
+            "text":"Суперсайт на МКАД 102км+105м внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 102км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/supersait-na-mkad-102km-105m-vneshnia-storona-b"
+         }
+      },
+{
+         "type":"Feature",
+         "bbox":[[37.803815679687496,55.67753342005372],[37.85874732031248,55.69329251116969]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83128149999998,55.685413762839396]
+         },
+         "properties":{
+            "text":"Суперборд на Мкаде 11км+305м Внешняя сторона Б",
+            "name":"Рекламный щит",
+            "address":"МКАД 11км",
+            "cost":"Стоимость аренды в месяц: 140 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/supersait-na-mkade-11km-305m-vneshnia-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.81025667968745,55.65997435302596],[37.865188320312434,55.675740548266866]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.83772249999995,55.66785824807123]
+         },
+         "properties":{
+            "text":"Суперборд 4х12 на МКАД 13км+385м Внешняя сторона А ",
+            "name":"Рекламный щит",
+            "address":"МКАД 13км",
+            "cost":"Стоимость аренды в месяц: 137 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/superbord-4x12-na-mkad-13km-385m-vneshnia-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.81536817968747,55.76719666077824],[37.870299820312475,55.782919453032875]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.842833999999975,55.775058853122076]
+         },
+         "properties":{
+            "text":"Суперсайт 5х15 на МКАДе 1км+305м внешняя сторона А",
+            "name":"Рекламный щит",
+            "address":"МКАДе 1км",
+            "cost":"Стоимость аренды в месяц: 170 000 рублей",
+            "url":"http://outdoormstore.ru/reklamnye-shchity-na-mkade/supersait-5x15-na-mkade-1km-305m-vneshnjj-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.65539135937499,55.9059930838389],[37.76525464062499,55.93731978437195]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.710323,55.92165961229071]
+         },
+         "properties":{
+            "text":"Щит 3х6 г. Мытищи, Волковское шоссе 0км+525м сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, Волковское шоссе",
+            "cost":"Стоимость аренды в месяц: 50 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-shchitov-na-volkovskom-shosse/shchit-3x6-g-mitishi-volkovskoe-shosse-0km-525m-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+        "bbox":[[37.65539135937499,55.9059930838389],[37.76525464062499,55.93731978437195]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.710323,55.92165961229071]
+         },
+         "properties":{
+            "text":"Щит 3х6 г. Мытищи, Волковское шоссе 0км+525м сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, Волковское шоссе",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-shchitov-na-volkovskom-shosse/reclamny-shchit-3x6-volkovskoe-shosse-0km-525m-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.65539135937499,55.9059930838389],[37.76525464062499,55.93731978437195]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.710323,55.92165961229071]
+         },
+         "properties":{
+            "text":"Цена щита 6х3 в г. Мытищи, Волковское шоссе 0км-955м справа А",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, Волковское шоссе",
+            "cost":"Стоимость аренды в месяц: 50 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-shchitov-na-volkovskom-shosse/cena-shchita-6x3-v-g-mitishi-volkovskoe-shosse-0km-955m-sprava"
+         }
+      },
+
+{
+         "type":"Feature",
+        "bbox":[[37.65539135937499,55.9059930838389],[37.76525464062499,55.93731978437195]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.710323,55.92165961229071]
+         },
+         "properties":{
+            "text":"Цена щита 6х3 в г. Мытищи, Волковское шоссе 0км-955м справа Б",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, Волковское шоссе",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-shchitov-na-volkovskom-shosse/reclamny-shchit-6x3-v-g-mitishi-volkovskoe-shosse-0km-955m-sprava-b"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.65539135937499,55.9059930838389],[37.76525464062499,55.93731978437195]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.69839253430174,55.921274050979704]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 на Волковском шоссе 1км+305м слева сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, Волковское шоссе",
+            "cost":"Стоимость аренды в месяц: 50 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-shchitov-na-volkovskom-shosse/reklamny-shchit-3x6-na-volkovskom-shosse-1km-305m-sleva-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.65539135937499,55.9059930838389],[37.76525464062499,55.93731978437195]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.69839253430174,55.921274050979704]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 на Волковском шоссе 1км+305м слева сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, Волковское шоссе",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-shchitov-na-volkovskom-shosse/reklamny-shchit-3x6-na-volkovskom-shosse-1km-305m-sleva-storona-b"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.66097035412598,55.90777697852469],[37.715901994750965,55.9234427832557]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.690539026306155,55.920599309417874]
+         },
+         "properties":{
+            "text":"Рекламное место 3х6 в г. Мытищи, Волковское шоссе 5км-105м, правая Б",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, Волковское шоссе",
+            "cost":"Стоимость аренды в месяц: 50 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-shchitov-na-volkovskom-shosse/billboard-3x6-v-g-mitishi-volkovskoe-shosse-5km-105m-sprava"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.66097035412598,55.90777697852469],[37.715901994750965,55.9234427832557]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.690539026306155,55.920599309417874]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 на Волковском шоссе 5км+205м справа сторона А",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, Волковское шоссе",
+            "cost":"Стоимость аренды в месяц: 40 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-shchitov-na-volkovskom-shosse/foto-shchita-3x6-na-volkovskom-shosse-5km-205m-sprava-storona"
+         }
+      },
+
+{
+         "type":"Feature",
+         "bbox":[[37.66097035412598,55.90777697852469],[37.715901994750965,55.9234427832557]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[37.690539026306155,55.920599309417874]
+         },
+         "properties":{
+            "text":"Рекламный щит 3х6 на Волковском шоссе 5км+205м справа сторона Б",
+            "name":"Рекламный щит",
+            "address":"г. Мытищи, Волковское шоссе",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/arenda-reklamnyh-shchitov-na-volkovskom-shosse/stoimost-shchita-3x6-na-volkovskom-shosse-5km-205m-sprava-storona-b"
+         }
+      },
+
+
+
+         {
+         "type":"Feature",
+         "bbox":[[38.46463, 55.795418], [38.481087, 55.804688]],
+         "geometry":{
+            "type":"Point",
+            "coordinates":[38.472858, 55.800053]
+         },
+        "properties":{
+            "text":"Реклама на баннере в г.Электросталь на ул.Восточная, дом 4 сторона Б",
+            "name":"Рекламный биллборд",
+            "address":"г.Электросталь ул.Восточная, дом 4",
+            "cost":"Стоимость аренды в месяц: 35 000 рублей",
+            "url":"http://outdoormstore.ru/reklama-v-elektrostali-na-shchitah-3h6/arenda-reklamnogo-shchita-v-g-elektrostal-na-yl-vostochnaja-dom-4-storona-b"
+         }
+      }
+   ]
+}

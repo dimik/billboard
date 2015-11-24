@@ -1,0 +1,321 @@
+﻿/*------------------------------*/
+/*Общие настройки*/
+/*------------------------------*/
+html{background: url('http://n2015.ru/images/topBg.jpg') top repeat-x;}
+body{margin: 0; padding: 0; min-width: 1000px; min-height: 100%;}
+a, img, input{border: 0; outline: none;}
+div.clr{height: 0; font-size: 1px; line-height: 0px; clear: both;}
+ul, ul li{margin: 0; padding: 0; list-style-type: none;}
+p {text-indent: 20px;}
+.p {padding-left: 30px;}
+.pm {padding-left: 143px;}
+
+.conteiner{position: relative; top: 0;  width: 835px; margin: 0 auto;}
+a{color: #1bb746;}
+a:hover{text-decoration: none;}
+
+.inner{background: url('http://n2015.ru/images/bgInner.jpg') top no-repeat; overflow: hidden;}
+.main{background: url('http://n2015.ru/images/bgMain.jpg') top no-repeat; overflow: hidden;}
+
+/*------------------------------*/
+/*Шапка*/
+/*------------------------------*/
+.header{position: relative; top: -12px; height: 405px; color: #bfe7c6; text-align: center; font: bold 16px Georgia; font-style: italic;}
+.header a{position: absolute; top: 77px; right: 270px; width: 141px; height: 101px; display: block; background: url('http://n2015.ru/images/label.png'); padding: 40px 0 0 0; color: #fff; font-size: 15px; z-index: 9}
+.header span{position: relative; display: block; font-size: 36px; line-height: 25px; margin: 0 0 8px 0;}
+.header i{display: block; font-size: 22px;}
+
+.leftText, .rightText{position: absolute; top: 20px; font: bold 17px Georgia; font-style: italic; color: #1bb749;}
+.leftText{left: -55px;}
+.rightText{right: -85px;}
+
+.leftText span{left: 35px;}
+.leftText i{padding: 0 40px 0 0;}
+
+.rightText span{right: 85px;}
+.rightText i{padding: 0 0 0 70px; font-size: 16px;}
+
+
+/*Меню*/
+.menu{width: 832px; height: 87px; background: url('http://n2015.ru/images/menu.png') 25px 25px no-repeat; overflow: hidden; font-weight: bold; margin-top: 35px; font: 14px Calibri;}
+.menu li{float: left;}
+.menu li a{color: #fff; display: block; text-align: center;}
+.menu li a:hover, .menu li a.selected{background-position: 0 0!important; text-decoration: underline;}
+
+.lMenu{float: left;}
+.rMenu{float: right;}
+
+.m1 a{width: 121px; height: 32px; margin: 13px 0 0 0; padding: 8px 0 0 0; background: url('http://n2015.ru/images/menu/m1.png') 0 -40px no-repeat;}
+.m2 a{width: 71px; height: 29px; margin: 16px 0 0 0; padding: 5px 0 0 0; background: url('http://n2015.ru/images/menu/m2.png') 0 -40px no-repeat;}
+.m3 a{width: 101px; height: 27px; margin: 18px 0 0 0; padding: 3px 0 0 0; background: url('http://n2015.ru/images/menu/m3.png') 0 -40px no-repeat;}
+.m4 a{width: 111px; height: 27px; margin: 18px 0 0 0; padding: 3px 0 0 0; background: url('http://n2015.ru/images/menu/m4.png') 0 -40px no-repeat;}
+.m5 a{width: 83px; height: 32px; margin: 15px 0 0 0; padding: 5px 0 0 0; background: url('http://n2015.ru/images/menu/m5.png') 0 -38px no-repeat;}
+.m6 a{width: 114px; height: 33px; margin: 13px 0 0 0; padding: 7px 0 0 0; background: url('http://n2015.ru/images/menu/m6.png') 0 -40px no-repeat;}
+
+.logo{position: absolute; top: -1px; left: 293px; width: 232px; height: 69px; background: url('http://n2015.ru/images/logo.png');}
+.logo a{width: 140px; height: 23px; margin: 22px 0 0 53px; display: block;}
+
+/*------------------------------*/
+/*Контент*/
+/*------------------------------*/
+.content{padding: 20px 30px; margin: 15px 0 0 0; background: #fff; border: 5px solid #e6f0df; border-top: 0; border-radius: 20px; overflow: hidden; font: 14px Georgia; color: #000;}
+
+h1, h2, h3{color: #000; font-style: normal;}
+h1{font-size: 38px; margin: 10px 0 15px 0;}
+h2{font-size: 21px;}
+h3{font-size: 18px; color: #1bb749;}
+
+/*Анонсы на главной*/
+.announce{overflow: hidden; font: italic 14px Georgia; text-align: center; color: #1bb746;}
+.announce i{font-size: 21px; font-weight: bold;}
+.announce i b{font-size: 31px;}
+
+.announce li{width: 23%; float: left; padding: 90px 1% 0 1%;}
+
+.announce a{font-size: 18px; font-weight: bold; display: block; margin: 0 0 7px 0;}
+
+.a1{background: url('http://n2015.ru/images/icons/a1.png') top no-repeat;}
+.a2{background: url('http://n2015.ru/images/icons/a2.png') top no-repeat; margin: 55px 0 0 0;}
+.a3{background: url('http://n2015.ru/images/icons/a3.png') top no-repeat; margin: 55px 0 0 0;}
+.a4{background: url('http://n2015.ru/images/icons/a4.png') top no-repeat;}
+
+
+/*Хлебные крошки*/
+.crumbs{font-size: 14px;}
+.crumbs span{padding: 0 5px;}
+.crumbs a{color: #1bb746;}
+
+/*Текстовый блок*/
+.image{width: 190px; background: #f3e8e5; border-radius: 20px; float: left; margin: 0 15px 15px 0; padding: 0 0 8px 0; font-size: 13px; text-align: center;}
+.image img{margin: 5px 6px 3px 6px; border-radius: 20px; max-width: 179px;}
+
+.text{font-style: normal; font-size: 16px;}
+
+/*Преимущества*/
+.benefits{font-size: 14px; overflow: hidden; margin: 0 -150px 0 0;}
+.benefits li{float: left; width: 235px; padding: 3px 7px 0 23px; background: url('http://n2015.ru/images/icons/check.png') 0 0 no-repeat; vertical-align: top;}
+
+/*Таблица*/
+.table{width: 100%; font-size: 14px; margin: 30px 0 25px 0;}
+
+.table tr th:first-child{border-radius: 5px 0 0 5px;}
+.table tr th:last-child{border-radius: 0 5px 5px 0;}
+.table th{background: #438543 url('http://n2015.ru/images/gradient.jpg') top repeat-x; color: #fff; font-weight: normal; text-align: left; padding: 6px 15px 8px 15px; border-right: 1px solid #fff;}
+
+.table td{padding: 8px 15px; border-right: 1px solid #dfe1f2;}
+.table tr td:last-child{border: 0;}
+.table .purple td{background: #e6f0df; border-right: 1px solid #fff;}
+.table .purple td:first-child{border-radius: 5px 0 0 5px;}
+.table .purple td:last-child{border-radius: 0 5px 5px 0;}
+
+.table2{width:auto; font-size: 13px; margin: 30px 0 25px 0;}
+
+.table2 tr th:first-child{border-radius: 5px 0 0 5px;}
+.table2 tr th:last-child{border-radius: 0 5px 5px 0;}
+.table2 th{background: #438543 url('http://n2015.ru/images/gradient.jpg') top repeat-x; color: #fff; font-weight: normal; text-align: left; padding: 6px 15px 8px 15px; border-right: 1px solid #fff;}
+
+.table2 td{padding: 8px 15px; border-right: 1px solid #dfe1f2;}
+.table2 tr td:last-child{border: 0;}
+.table2 .purple td{background: #e6f0df; border-right: 1px solid #fff;}
+.table2 .purple td:first-child{border-radius: 5px 0 0 5px;}
+.table2 .purple td:last-child{border-radius: 0 5px 5px 0;}
+
+
+/*Кнопка*/
+.button a{display: inline-block; background: #438543 url('http://n2015.ru/images/gradient.jpg') top repeat-x; color: #fff; font-style: italic; padding: 3px 13px 6px 13px; border-radius: 5px; margin: 10px 0;}
+.menu2 {display: inline-block; background: #438543 url('http://n2015.ru/images/gradient.jpg') top repeat-x; color: #fff; font-style: normal; color: white; padding: 3px 13px 6px 13px; border-radius: 5px; margin: 1px 0;}
+.menu2 li a{color: #fff; display: block; text-align: left;}
+
+/*------------------------------*/
+/*Подвал*/
+/*------------------------------*/
+.footer{color: #cbc8d0; text-align: center; padding: 30px 0;}
+.footer a{color: #cbc8d0;}
+
+.demo-2{width: 95%; background: #caebda; border-radius: 20px; float: left; margin: 0 15px 15px 0; padding: 0 0 8px 0; font-size: 14px; text-align:left; padding: 0 15px;}
+.bad {font-size:26px}
+
+
+#md2{
+	display: none;
+	border: #caebda 3px solid;
+    position: absolute;
+    top: 50px;
+    left: 90px;
+	width: 700px;
+	height: 150px;
+	background: #ffffff;
+	color:#6f6b73;
+	z-index:10;
+	font: 17px Georgia; color:#1bb749;
+	text-align:left;
+}
+#md3{
+	display: none;
+	border: #caebda 3px solid;
+    position: absolute;
+    top: 50px;
+    left: 90px;
+	width: 700px;
+	height: 100px;
+	background: #ffffff;
+	color:#6f6b73;
+	z-index:10;
+	font: 17px Georgia; color:#1bb749;
+	text-align:left;
+}
+#md4{
+	display: none;
+	border: #caebda 3px solid;
+    position: absolute;
+    top: 50px;
+    left: 90px;
+	width: 700px;
+	height: 230px;
+	background: #ffffff;
+	color:#6f6b73;
+	z-index:10;
+	font: 17px Georgia; color:#1bb749; 
+	text-align:left;
+}
+#md5{
+	display: none;
+	border: #caebda 3px solid;
+    position: absolute;
+    top: 50px;
+    left: 90px;
+	width: 700px;
+	height: 220px;
+	background: #ffffff;
+	color:#6f6b73;
+	z-index:10;
+	font: 17px Georgia; color:#1bb749;
+	text-align:left;
+}
+#md6{
+	display: none;
+	border: #caebda 3px solid;
+    position: absolute;
+    top: 30px;
+    left: -30px;
+	width: 500px;
+	height: 200px;
+	background: #ffffff;
+	color:#6f6b73;
+	z-index:9;
+	font: 17px Georgia; color:#1bb749;
+	text-align:left;
+}
+
+#feedback{
+	background-color:#9db09f;
+ 	-moz-border-radius:22px 22px 0 0;
+	-webkit-border-radius:22px 22px 0 0;
+	border-radius:22px 22px 0 0;
+    width:300px;
+    height:330px;
+    position:fixed;
+    bottom:0;
+    right:120px;
+    margin-bottom:-270px;
+    z-index:10000;
+}
+
+#feedback .section{
+	background:url('http://n2015.ru/images/bg.png') repeat-x top left;
+	border:1px solid #808f81;
+    border-bottom:none;
+    -moz-border-radius:22px;
+	-webkit-border-radius:22px;
+	border-radius:22px;
+    padding:10px 25px 25px;
+}
+
+#feedback .color{
+	float:left;
+	height:4px;
+	width:20%;
+	overflow:hidden;
+}
+
+#feedback .color-1{ background-color:#d3b112;}
+#feedback .color-2{ background-color:#12b6d3;}
+#feedback .color-3{ background-color:#8fd317;}
+#feedback .color-4{ background-color:#ca57df;}
+#feedback .color-5{ background-color:#8ecbe7;}
+
+#feedback h6{
+	background:url("http://n2015.ru/images/feedback.png") no-repeat;
+	height:38px;
+	margin:5px 0 12px;
+	text-indent:-99999px;
+	cursor:pointer;
+}
+
+#feedback textarea{
+	background-color:#fff;
+	border:none;
+	color:#666666;
+	font:13px 'Lucida Sans',Arial,sans-serif;
+	height:100px;
+	padding:10px;
+	width:236px;
+	resize:none;
+	outline:none;
+	overflow:auto;
+	
+	-moz-box-shadow:4px 4px 0 #8a9b8c;
+	-webkit-box-shadow:4px 4px 0 #8a9b8c;
+	box-shadow:4px 4px 0 #8a9b8c;
+}
+
+#feedback a.submit{
+	background:url("http://n2015.ru/images/submit.png") no-repeat;
+	border:none;
+	display:block;
+	height:34px;
+	margin:20px auto 0;
+	text-decoration:none;
+	text-indent:-99999px;
+	width:91px;
+}
+
+#feedback a.submit:hover{
+	background-position:left bottom;
+}
+
+#feedback a.submit.working{
+	background-position:top right !important;
+	cursor:default;
+}
+
+#feedback .message{
+	font-family:Corbel,Arial,sans-serif;
+	color:#5a665b;
+	text-shadow:1px 1px 0 #b3c2b5;
+	margin-bottom:20px;
+}
+
+#feedback .arrow{
+	background:url('http://n2015.ru/images/arrows.png') no-repeat;
+	float:right;
+	width:23px;
+	height:18px;
+	position:relative;
+	top:10px;
+}
+
+#feedback .arrow.down{ background-position:left top;}
+#feedback h6:hover .down{ background-position:left bottom;}
+#feedback .arrow.up{ background-position:right top;}
+#feedback h6:hover .up{ background-position:right bottom;}
+
+#feedback .response{
+	font-size:21px;
+	margin-top:70px;
+	text-align:center;
+	text-shadow:2px 2px 0 #889889;
+	color:#FCFCFC;
+	display:block;
+}
+
